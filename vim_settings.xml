@@ -1,0 +1,480 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/WebstormProjects/mri/public/js/views/header-view.js" timestamp="1475174839974" />
+      <file name="$USER_HOME$/WebstormProjects/empty-test/backbone.js" timestamp="1474472110062">
+        <mark key="[" line="19" column="14" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/ProjectRTC/package.json" timestamp="1467230230182">
+        <mark key="[" line="15" column="12" />
+        <mark key="]" line="15" column="14" />
+        <mark key="." line="15" column="14" />
+        <mark key="^" line="15" column="14" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/test/test/main.js" timestamp="1467160876702">
+        <mark key="'" line="18" column="33" />
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="8" column="24" />
+        <mark key="^" line="8" column="24" />
+        <mark key="." line="8" column="24" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/empty-test/config.js" timestamp="1473999219794">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="4" />
+        <mark key="." line="8" column="4" />
+        <mark key="^" line="8" column="4" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/mri/public/js/libs/singleton.js" timestamp="1475174870004" />
+      <file name="$USER_HOME$/WebstormProjects/webRTC-browser/public/javascripts/app.js" timestamp="1467770011830">
+        <mark key="[" line="57" column="39" />
+        <mark key="]" line="57" column="42" />
+        <mark key="^" line="57" column="42" />
+        <mark key="." line="57" column="42" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/webpack-helloworld/js/views.js" timestamp="1474914404428" />
+      <file name="$USER_HOME$/WebstormProjects/Marionetee-Test/index.html" timestamp="1475071611477">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/webpack-helloworld/js/router.js" timestamp="1475174272644">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="9" column="19" />
+        <mark key="^" line="9" column="25" />
+        <mark key="." line="9" column="18" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/webpack-helloworld/templates/layout.html" timestamp="1474914339618">
+        <mark key="[" line="1" column="45" />
+        <mark key="]" line="1" column="24" />
+        <mark key="^" line="1" column="24" />
+        <mark key="." line="1" column="24" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/Marionetee-Test/app/app.js" timestamp="1475024812426">
+        <mark key="'" line="19" column="7" />
+        <mark key="[" line="19" column="7" />
+        <mark key="]" line="19" column="11" />
+        <mark key="^" line="19" column="11" />
+        <mark key="." line="19" column="11" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/empty-test/public/javascripts/myCtrl.js" timestamp="1474309226171">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="42" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="3" column="5" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/mri/public/js/yutang/router.js" timestamp="1475173037055" />
+      <file name="$USER_HOME$/WebstormProjects/mri/public/js/application.js" timestamp="1475174399117" />
+      <file name="$USER_HOME$/WebstormProjects/webRTC-browser/views/local-cam.ejs" timestamp="1467765151804">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="8" column="32" />
+        <mark key="^" line="8" column="32" />
+        <mark key="." line="8" column="32" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/mri/public/js/yutang/views/tpl/ExplorerTripInputView.html" timestamp="1475071390170" />
+      <file name="$USER_HOME$/WebstormProjects/Marionetee-Test/app/views/views.js" timestamp="1475070032349">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/Marionetee-Test/webpack.config.js" timestamp="1474986092893">
+        <mark key="[" line="19" column="5" />
+        <mark key="]" line="20" column="3" />
+        <mark key="^" line="20" column="3" />
+        <mark key="." line="20" column="3" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/ProjectRTC/views/remote-streams.ejs" timestamp="1467768820842">
+        <mark key="[" line="23" column="1" />
+        <mark key="]" line="23" column="4" />
+        <mark key="." line="23" column="4" />
+        <mark key="^" line="23" column="4" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/empty-test/circle.js" timestamp="1473999196060">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="10" />
+        <mark key="^" line="25" column="10" />
+        <mark key="." line="25" column="10" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/mri/public/js/explorer/views/explorer-view.js" timestamp="1474405074497" />
+      <file name="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/layout.html" timestamp="1475071804864">
+        <mark key="'" line="38" column="170" />
+        <mark key="[" line="251" column="0" />
+        <mark key="]" line="251" column="6" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/mri/public/js/models/session-model.js" timestamp="1475175549128">
+        <mark key="'" line="3" column="19" />
+        <mark key="]" line="6" column="1" />
+        <mark key="." line="6" column="1" />
+        <mark key="^" line="6" column="1" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/test/app.js" timestamp="1467160804268">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="19" />
+        <mark key="." line="27" column="19" />
+        <mark key="^" line="27" column="19" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/empty-test/public/javascripts/myApp.js" timestamp="1474309220472">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="42" />
+        <mark key="." line="5" column="4" />
+        <mark key="^" line="5" column="4" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/marionetteJS/app/app.js" timestamp="1474917699348">
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="10" column="22" />
+        <mark key="^" line="10" column="22" />
+        <mark key="." line="10" column="22" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/webpack-helloworld/js/models.js" timestamp="1474991498205" />
+      <file name="$USER_HOME$/WebstormProjects/marionetteJS/app/main.js" timestamp="1474919251678">
+        <mark key="'" line="8" column="26" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/Marionetee-Test/app/main.js" timestamp="1475023659032" />
+      <file name="$USER_HOME$/WebstormProjects/empty-test/backbone.html" timestamp="1474470008774">
+        <mark key="[" line="43" column="36" />
+        <mark key="]" line="43" column="37" />
+        <mark key="^" line="43" column="37" />
+        <mark key="." line="43" column="37" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/Marionetee-Test/static/js/views.js" timestamp="1474988115296">
+        <mark key="[" line="8" column="41" />
+        <mark key="]" line="8" column="45" />
+        <mark key="^" line="8" column="45" />
+        <mark key="." line="8" column="45" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/webpack-helloworld/index.html" timestamp="1474915535060">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/webpack-helloworld/webpack.config.js" timestamp="1474986038987" />
+      <file name="$USER_HOME$/WebstormProjects/empty-test/main.js" timestamp="1474301031547">
+        <mark key="'" line="29" column="8" />
+        <mark key="[" line="39" column="18" />
+        <mark key="]" line="40" column="17" />
+        <mark key="." line="40" column="17" />
+        <mark key="^" line="40" column="17" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/webRTC-browser/views/index.ejs" timestamp="1467769966047">
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="16" column="32" />
+        <mark key="." line="16" column="32" />
+        <mark key="^" line="16" column="32" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/root.html" timestamp="1475009677756">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/app.js" timestamp="1474380466245">
+        <mark key="'" line="4" column="23" />
+        <mark key="[" line="38" column="17" />
+        <mark key="]" line="38" column="18" />
+        <mark key="^" line="38" column="18" />
+        <mark key="." line="38" column="18" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/ProjectRTC/app.js" timestamp="1474299502379">
+        <mark key="'" line="32" column="20" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/webpack-helloworld/js/app.js" timestamp="1475173772144">
+        <mark key="'" line="14" column="29" />
+        <mark key="[" line="24" column="14" />
+        <mark key="]" line="24" column="14" />
+        <mark key="." line="24" column="14" />
+        <mark key="^" line="24" column="14" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/empty-test/package.json" timestamp="1473996078320">
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="25" />
+        <mark key="^" line="5" column="21" />
+        <mark key="." line="4" column="24" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/marionetteJS/app/templates/layout.html" timestamp="1474919906625">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+        <mark key="^" line="2" column="16" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/webpack-helloworld/templates/buttons.html" timestamp="1475173839949">
+        <mark key="[" line="0" column="56" />
+        <mark key="]" line="0" column="60" />
+        <mark key="." line="0" column="60" />
+        <mark key="^" line="0" column="60" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/Marionetee-Test/app/views/layout.js" timestamp="1475075545530">
+        <mark key="'" line="7" column="39" />
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="15" column="5" />
+        <mark key="." line="15" column="5" />
+        <mark key="^" line="15" column="5" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/mri/public/js/yutang/views/explorer-trip-input-view.js" timestamp="1475075603126">
+        <mark key="'" line="130" column="33" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/Marionetee-Test/app/models/rootModel.js" timestamp="1474992052265">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+        <mark key="^" line="5" column="3" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/webpack-helloworld/js/controller.js" timestamp="1475173897927">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="37" />
+        <mark key="^" line="13" column="37" />
+        <mark key="." line="13" column="37" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/marionetteJS/index.html" timestamp="1475172872891">
+        <mark key="[" line="50" column="26" />
+        <mark key="]" line="50" column="26" />
+        <mark key="." line="50" column="26" />
+        <mark key="^" line="52" column="18" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="0" column="4" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/rtcClient.js" />
+      <jump line="24" column="4" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/rtcClient.js" />
+      <jump line="1" column="34" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/app.js" />
+      <jump line="133" column="38" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/app.js" />
+      <jump line="217" column="11" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
+      <jump line="215" column="47" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
+      <jump line="18" column="21" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/app.js" />
+      <jump line="214" column="9" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
+      <jump line="20" column="21" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/app.js" />
+      <jump line="136" column="4" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
+      <jump line="206" column="4" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
+      <jump line="235" column="23" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
+      <jump line="236" column="27" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
+      <jump line="19" column="4" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
+      <jump line="20" column="6" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
+      <jump line="130" column="33" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
+      <jump line="131" column="31" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
+      <jump line="133" column="4" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
+      <jump line="193" column="33" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
+      <jump line="194" column="31" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
+      <jump line="195" column="15" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
+      <jump line="196" column="6" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
+      <jump line="197" column="22" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
+      <jump line="137" column="21" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/rtcClient.js" />
+      <jump line="16" column="6" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/rtcClient.js" />
+      <jump line="69" column="11" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/rtcClient.js" />
+      <jump line="140" column="15" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/rtcClient.js" />
+      <jump line="72" column="15" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/rtcClient.js" />
+      <jump line="71" column="15" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/rtcClient.js" />
+      <jump line="70" column="15" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/rtcClient.js" />
+      <jump line="163" column="15" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/rtcClient.js" />
+      <jump line="88" column="4" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/rtcClient.js" />
+      <jump line="21" column="30" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/app.js" />
+      <jump line="131" column="27" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/app.js" />
+      <jump line="148" column="27" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/app.js" />
+      <jump line="23" column="39" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/app.js" />
+      <jump line="42" column="39" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/app.js" />
+      <jump line="122" column="20" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/app.js" />
+      <jump line="124" column="20" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/app.js" />
+      <jump line="126" column="28" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/app.js" />
+      <jump line="146" column="24" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/app.js" />
+      <jump line="4" column="23" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/app.js" />
+      <jump line="58" column="32" filename="$USER_HOME$/WebstormProjects/mri/mri-server.js" />
+      <jump line="119" column="25" filename="$USER_HOME$/WebstormProjects/mri/mri-server.js" />
+      <jump line="15" column="29" filename="$USER_HOME$/WebstormProjects/webpack-helloworld/js/app.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/webpack-helloworld/templates/layout.html" />
+      <jump line="8" column="26" filename="$USER_HOME$/WebstormProjects/marionetteJS/app/main.js" />
+      <jump line="7" column="26" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/main.js" />
+      <jump line="181" column="10" filename="$USER_HOME$/WebstormProjects/mri/public/js/yutang/views/explorer-trip-input-view.js" />
+      <jump line="195" column="45" filename="$USER_HOME$/WebstormProjects/mri/public/js/yutang/views/explorer-trip-input-view.js" />
+      <jump line="196" column="13" filename="$USER_HOME$/WebstormProjects/mri/public/js/yutang/views/explorer-trip-input-view.js" />
+      <jump line="198" column="23" filename="$USER_HOME$/WebstormProjects/mri/public/js/yutang/views/explorer-trip-input-view.js" />
+      <jump line="203" column="10" filename="$USER_HOME$/WebstormProjects/mri/public/js/yutang/views/explorer-trip-input-view.js" />
+      <jump line="12" column="4" filename="$USER_HOME$/WebstormProjects/mri/public/js/yutang/views/explorer-trip-input-view.js" />
+      <jump line="49" column="31" filename="$USER_HOME$/WebstormProjects/mri/public/js/yutang/views/explorer-trip-input-view.js" />
+      <jump line="114" column="45" filename="$USER_HOME$/WebstormProjects/mri/public/js/yutang/views/explorer-trip-input-view.js" />
+      <jump line="180" column="26" filename="$USER_HOME$/WebstormProjects/mri/public/js/yutang/views/explorer-trip-input-view.js" />
+      <jump line="19" column="7" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/app.js" />
+      <jump line="7" column="39" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/views/layout.js" />
+      <jump line="251" column="10" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/layout.html" />
+      <jump line="28" column="8" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/layout.html" />
+      <jump line="19" column="47" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/layout.html" />
+      <jump line="32" column="12" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/layout.html" />
+      <jump line="85" column="84" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/layout.html" />
+      <jump line="92" column="68" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/layout.html" />
+      <jump line="95" column="76" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/layout.html" />
+      <jump line="118" column="87" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/layout.html" />
+      <jump line="125" column="71" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/layout.html" />
+      <jump line="128" column="79" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/layout.html" />
+      <jump line="212" column="93" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/layout.html" />
+      <jump line="233" column="77" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/layout.html" />
+      <jump line="236" column="85" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/layout.html" />
+      <jump line="248" column="140" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/layout.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/layout.html" />
+      <jump line="2" column="76" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/layout.html" />
+      <jump line="9" column="173" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/layout.html" />
+      <jump line="31" column="56" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/layout.html" />
+      <jump line="38" column="170" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/layout.html" />
+      <jump line="167" column="26" filename="$USER_HOME$/WebstormProjects/mri/public/js/yutang/views/explorer-trip-input-view.js" />
+      <jump line="141" column="75" filename="$USER_HOME$/WebstormProjects/mri/public/js/yutang/views/explorer-trip-input-view.js" />
+      <jump line="147" column="54" filename="$USER_HOME$/WebstormProjects/mri/public/js/yutang/views/explorer-trip-input-view.js" />
+      <jump line="149" column="54" filename="$USER_HOME$/WebstormProjects/mri/public/js/yutang/views/explorer-trip-input-view.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/mri/public/js/yutang/views/explorer-trip-input-view.js" />
+      <jump line="130" column="33" filename="$USER_HOME$/WebstormProjects/mri/public/js/yutang/views/explorer-trip-input-view.js" />
+      <jump line="7" column="30" filename="$USER_HOME$/WebstormProjects/mri/public/js/models/session-model.js" />
+      <jump line="120" column="24" filename="$USER_HOME$/WebstormProjects/mri/public/js/models/session-model.js" />
+      <jump line="109" column="12" filename="$USER_HOME$/WebstormProjects/mri/public/js/models/session-model.js" />
+      <jump line="23" column="9" filename="$USER_HOME$/WebstormProjects/mri/public/js/models/session-model.js" />
+      <jump line="25" column="45" filename="$USER_HOME$/WebstormProjects/mri/public/js/models/session-model.js" />
+      <jump line="35" column="7" filename="$USER_HOME$/WebstormProjects/mri/public/js/models/session-model.js" />
+      <jump line="5" column="25" filename="$USER_HOME$/WebstormProjects/mri/public/js/models/session-model.js" />
+      <jump line="30" column="41" filename="$USER_HOME$/WebstormProjects/mri/public/js/models/session-model.js" />
+      <jump line="58" column="2" filename="$USER_HOME$/WebstormProjects/mri/public/js/models/session-model.js" />
+      <jump line="61" column="15" filename="$USER_HOME$/WebstormProjects/mri/public/js/models/session-model.js" />
+      <jump line="66" column="27" filename="$USER_HOME$/WebstormProjects/mri/public/js/models/session-model.js" />
+      <jump line="113" column="41" filename="$USER_HOME$/WebstormProjects/mri/public/js/models/session-model.js" />
+      <jump line="3" column="19" filename="$USER_HOME$/WebstormProjects/mri/public/js/models/session-model.js" />
+      <jump line="11" column="1" filename="$USER_HOME$/WebstormProjects/mri/test/client/helper.js" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dmFyIFNpbmdsZXRvbiA9IHJlcXVpcmUoJ2xpYnMvc2luZ2xldG9uJyk7Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>(</text>
+      </register>
+      <register name="/" type="4">
+        <text>login</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">PC9mb3JtPgo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">dmFyIFNpbmdsZXRvbiA9IHJlcXVpcmUoJ2xpYnMvc2luZ2xldG9uJyk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcm91dGVyLm9uKCkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuYWEuc2V0KHtuYW1lOidoaCd9KTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJhIG5ldyB3b3JsZCIpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMub24oJ2NoYW5nZTphYScsIGZ1bmN0aW9uKCkgewogICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJhYSByZWNlaXZlZCBhIG1lc3NhZ2UiKTsKICAgICAgICAgICAgICAgIH0pOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIDxkaXYgaWQ9ImJ0biI+CiAgICAgICAgPGlucHV0IHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImxheW91dCIgdmFsdWU9IkhlbGxvIj4KICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgY2xhc3M9ImxheW91dCIgbmFtZT0iSGVsbG8iIHBsYWNlaG9sZGVyPSJUaGlzIGlzIGEgdGVzdCIgcmVhZG9ubHk+CiAgICA8L2Rpdj4K</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>login</last-search>
+      <last-offset />
+      <last-pattern>login</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>configFile</entry>
+        <entry>config</entry>
+        <entry>nconf</entry>
+        <entry>svmp</entry>
+        <entry>export</entry>
+        <entry>file</entry>
+        <entry>gulp</entry>
+        <entry>getUserMedia</entry>
+        <entry>mediastream</entry>
+        <entry>getusermedia</entry>
+        <entry>adapter</entry>
+        <entry>localstream</entry>
+        <entry>PeerManager</entry>
+        <entry>camera</entry>
+        <entry>cameraIson</entry>
+        <entry>attachMediastream</entry>
+        <entry>element</entry>
+        <entry>cameraison</entry>
+        <entry>routes</entry>
+        <entry>explore</entry>
+        <entry>listen</entry>
+        <entry>hostName</entry>
+        <entry>modelevents</entry>
+        <entry encoding="base64">XDxyb290XD4=</entry>
+        <entry>domID</entry>
+        <entry>_</entry>
+        <entry>initialize</entry>
+        <entry>cid</entry>
+        <entry>router</entry>
+        <entry>singleton</entry>
+        <entry>threshold</entry>
+        <entry>login</entry>
+      </history-search>
+      <history-cmd>
+        <entry>W</entry>
+        <entry>wq</entry>
+        <entry>q</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
