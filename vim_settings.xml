@@ -1,9 +1,8 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WebstormProjects/mri/public/js/views/header-view.js" timestamp="1475174839974" />
       <file name="$USER_HOME$/WebstormProjects/empty-test/backbone.js" timestamp="1474472110062">
         <mark key="[" line="19" column="14" />
         <mark key="]" line="21" column="0" />
@@ -29,14 +28,12 @@
         <mark key="." line="8" column="4" />
         <mark key="^" line="8" column="4" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/mri/public/js/libs/singleton.js" timestamp="1475174870004" />
       <file name="$USER_HOME$/WebstormProjects/webRTC-browser/public/javascripts/app.js" timestamp="1467770011830">
         <mark key="[" line="57" column="39" />
         <mark key="]" line="57" column="42" />
         <mark key="^" line="57" column="42" />
         <mark key="." line="57" column="42" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/webpack-helloworld/js/views.js" timestamp="1474914404428" />
       <file name="$USER_HOME$/WebstormProjects/Marionetee-Test/index.html" timestamp="1475071611477">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -67,15 +64,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/mri/public/js/yutang/router.js" timestamp="1475173037055" />
-      <file name="$USER_HOME$/WebstormProjects/mri/public/js/application.js" timestamp="1475174399117" />
       <file name="$USER_HOME$/WebstormProjects/webRTC-browser/views/local-cam.ejs" timestamp="1467765151804">
         <mark key="[" line="7" column="27" />
         <mark key="]" line="8" column="32" />
         <mark key="^" line="8" column="32" />
         <mark key="." line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/mri/public/js/yutang/views/tpl/ExplorerTripInputView.html" timestamp="1475071390170" />
       <file name="$USER_HOME$/WebstormProjects/Marionetee-Test/app/views/views.js" timestamp="1475070032349">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -100,7 +94,6 @@
         <mark key="^" line="25" column="10" />
         <mark key="." line="25" column="10" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/mri/public/js/explorer/views/explorer-view.js" timestamp="1474405074497" />
       <file name="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/layout.html" timestamp="1475071804864">
         <mark key="'" line="38" column="170" />
         <mark key="[" line="251" column="0" />
@@ -131,7 +124,6 @@
         <mark key="^" line="10" column="22" />
         <mark key="." line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/webpack-helloworld/js/models.js" timestamp="1474991498205" />
       <file name="$USER_HOME$/WebstormProjects/marionetteJS/app/main.js" timestamp="1474919251678">
         <mark key="'" line="8" column="26" />
         <mark key="[" line="30" column="0" />
@@ -139,7 +131,6 @@
         <mark key="^" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/Marionetee-Test/app/main.js" timestamp="1475023659032" />
       <file name="$USER_HOME$/WebstormProjects/empty-test/backbone.html" timestamp="1474470008774">
         <mark key="[" line="43" column="36" />
         <mark key="]" line="43" column="37" />
@@ -158,7 +149,13 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/webpack-helloworld/webpack.config.js" timestamp="1474986038987" />
+      <file name="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" timestamp="1476218543787">
+        <mark key="'" line="430" column="88" />
+        <mark key="[" line="440" column="14" />
+        <mark key="]" line="439" column="96" />
+        <mark key="." line="439" column="0" />
+        <mark key="^" line="439" column="13" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/empty-test/main.js" timestamp="1474301031547">
         <mark key="'" line="29" column="8" />
         <mark key="[" line="39" column="18" />
@@ -198,6 +195,12 @@
         <mark key="]" line="24" column="14" />
         <mark key="." line="24" column="14" />
         <mark key="^" line="24" column="14" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/comics-novels-nodeJS/app.js" timestamp="1476218035129">
+        <mark key="[" line="69" column="14" />
+        <mark key="]" line="69" column="19" />
+        <mark key="^" line="69" column="19" />
+        <mark key="." line="69" column="19" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/empty-test/package.json" timestamp="1473996078320">
         <mark key="[" line="4" column="24" />
@@ -247,8 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="4" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/rtcClient.js" />
-      <jump line="24" column="4" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/rtcClient.js" />
       <jump line="1" column="34" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/app.js" />
       <jump line="133" column="38" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/app.js" />
       <jump line="217" column="11" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
@@ -347,72 +348,65 @@
       <jump line="113" column="41" filename="$USER_HOME$/WebstormProjects/mri/public/js/models/session-model.js" />
       <jump line="3" column="19" filename="$USER_HOME$/WebstormProjects/mri/public/js/models/session-model.js" />
       <jump line="11" column="1" filename="$USER_HOME$/WebstormProjects/mri/test/client/helper.js" />
+      <jump line="428" column="18" filename="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" />
+      <jump line="430" column="88" filename="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dmFyIFNpbmdsZXRvbiA9IHJlcXVpcmUoJ2xpYnMvc2luZ2xldG9uJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB2YXIga2V5ID0gcm93LmV4ZXBhdGggKyAiLSIgKyByb3cudXNlciArICItIiArIHJvdy5zb3VyY2UgKyAiLSIgKyByb3cuZGVzdGluYXRpb247Cg==</text>
+      </register>
+      <register name="l" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">KyA=</text>
       </register>
       <register name="/" type="4">
-        <text>login</text>
+        <text>undefine</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PC9mb3JtPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB2YXIga2V5ID0gcm93LmV4ZXBhdGggKyAiLSIgKyByb3cudXNlciArICItIiArIHJvdy5zb3VyY2UgKyAiLSIgKyByb3cuZGVzdGluYXRpb247Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">dmFyIFNpbmdsZXRvbiA9IHJlcXVpcmUoJ2xpYnMvc2luZ2xldG9uJyk7Cg==</text>
+      <register name="1" type="4">
+        <text>-</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm91dGVyLm9uKCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuYWEuc2V0KHtuYW1lOidoaCd9KTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJhIG5ldyB3b3JsZCIpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">dmFyIFNpbmdsZXRvbiA9IHJlcXVpcmUoJ2xpYnMvc2luZ2xldG9uJyk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcm91dGVyLm9uKCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuYWEuc2V0KHtuYW1lOidoaCd9KTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJhIG5ldyB3b3JsZCIpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMub24oJ2NoYW5nZTphYScsIGZ1bmN0aW9uKCkgewogICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJhYSByZWNlaXZlZCBhIG1lc3NhZ2UiKTsKICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxkaXYgaWQ9ImJ0biI+CiAgICAgICAgPGlucHV0IHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImxheW91dCIgdmFsdWU9IkhlbGxvIj4KICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgY2xhc3M9ImxheW91dCIgbmFtZT0iSGVsbG8iIHBsYWNlaG9sZGVyPSJUaGlzIGlzIGEgdGVzdCIgcmVhZG9ubHk+CiAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>login</last-search>
+      <last-search>undefine</last-search>
       <last-offset />
-      <last-pattern>login</last-pattern>
+      <last-pattern>undefine</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>configFile</entry>
-        <entry>config</entry>
-        <entry>nconf</entry>
-        <entry>svmp</entry>
-        <entry>export</entry>
-        <entry>file</entry>
-        <entry>gulp</entry>
-        <entry>getUserMedia</entry>
-        <entry>mediastream</entry>
-        <entry>getusermedia</entry>
-        <entry>adapter</entry>
-        <entry>localstream</entry>
         <entry>PeerManager</entry>
         <entry>camera</entry>
         <entry>cameraIson</entry>
@@ -433,6 +427,7 @@
         <entry>singleton</entry>
         <entry>threshold</entry>
         <entry>login</entry>
+        <entry>undefine</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
