@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/WebstormProjects/marionetteJS/app/main.js" timestamp="1474919251678">
@@ -53,18 +53,24 @@
         <mark key="^" line="57" column="42" />
         <mark key="." line="57" column="42" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/mri/models/alert_importer_queries.js" timestamp="1476299414256">
+        <mark key="[" line="148" column="133" />
+        <mark key="]" line="148" column="133" />
+        <mark key="." line="148" column="133" />
+        <mark key="^" line="148" column="133" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/webpack-helloworld/index.html" timestamp="1474915535060">
         <mark key="[" line="8" column="11" />
         <mark key="]" line="8" column="23" />
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" timestamp="1476288632611">
-        <mark key="'" line="430" column="88" />
-        <mark key="[" line="449" column="48" />
-        <mark key="]" line="449" column="51" />
-        <mark key="." line="449" column="51" />
-        <mark key="^" line="449" column="51" />
+      <file name="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" timestamp="1476299741645">
+        <mark key="'" line="207" column="12" />
+        <mark key="[" line="205" column="36" />
+        <mark key="]" line="205" column="37" />
+        <mark key="." line="205" column="37" />
+        <mark key="^" line="205" column="37" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/Marionetee-Test/index.html" timestamp="1475071611477">
         <mark key="[" line="9" column="0" />
@@ -260,9 +266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="38" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/app.js" />
-      <jump line="217" column="11" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
       <jump line="215" column="47" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
       <jump line="18" column="21" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/app.js" />
       <jump line="214" column="9" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
@@ -360,22 +363,25 @@
       <jump line="428" column="18" filename="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" />
       <jump line="430" column="88" filename="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" />
       <jump line="163" column="41" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/models/alert-importer-input-model.js" />
+      <jump line="468" column="32" filename="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" />
+      <jump line="158" column="37" filename="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" />
+      <jump line="207" column="12" filename="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sum</text>
+        <text>+</text>
       </register>
       <register name="l" type="4">
         <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>sum</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
-        <text>hour</text>
+        <text>ip</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB2YXIga2V5ID0gcm93LmV4ZXBhdGggKyAiLSIgKyByb3cudXNlciArICItIiArIHJvdy5zb3VyY2UgKyAiLSIgKyByb3cuZGVzdGluYXRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICcgQUdFTlQsIEVYRVBBVEgsIFBfVVNFUiwgY2hhbm5lbC5zcmNpcCxjaGFubmVsLnNyY3BvcnQsY2hhbm5lbC5kc3RpcCxjaGFubmVsLmRzdHBvcnQsY2hhbm5lbC5wcm90b2NvbCxPUEVSQVRJT04sVElNRScrCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">bGwuc29ydCgpOwo=</text>
@@ -409,11 +415,11 @@
       </register>
     </registers>
     <search>
-      <last-search>hour</last-search>
+      <last-search>ip</last-search>
       <last-offset />
-      <last-pattern>hour</last-pattern>
+      <last-pattern>ip</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -437,6 +443,8 @@
         <entry>login</entry>
         <entry>undefine</entry>
         <entry>hour</entry>
+        <entry>max</entry>
+        <entry>ip</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
