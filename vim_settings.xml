@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/WebstormProjects/marionetteJS/app/main.js" timestamp="1474919251678">
@@ -65,12 +65,13 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" timestamp="1476299741645">
+      <file name="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" timestamp="1476303748965">
+        <mark key="a" line="427" column="22" />
         <mark key="'" line="207" column="12" />
-        <mark key="[" line="205" column="36" />
-        <mark key="]" line="205" column="37" />
-        <mark key="." line="205" column="37" />
-        <mark key="^" line="205" column="37" />
+        <mark key="[" line="429" column="24" />
+        <mark key="]" line="427" column="18" />
+        <mark key="." line="427" column="18" />
+        <mark key="^" line="427" column="18" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/Marionetee-Test/index.html" timestamp="1475071611477">
         <mark key="[" line="9" column="0" />
@@ -368,14 +369,14 @@
       <jump line="207" column="12" filename="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdC5ncm91cEJ5ID0gYXR0cnMuZ3JvdXBCeTsK</text>
+      <register name="&quot;" type="4">
+        <text>fileMap</text>
       </register>
       <register name="l" type="4">
         <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>fileMap</text>
       </register>
       <register name="/" type="4">
         <text>ip</text>
