@@ -65,12 +65,13 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" timestamp="1476306384746">
+      <file name="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" timestamp="1476370125456">
         <mark key="a" line="427" column="22" />
-        <mark key="[" line="55" column="80" />
-        <mark key="]" line="55" column="83" />
-        <mark key="." line="55" column="83" />
-        <mark key="^" line="55" column="83" />
+        <mark key="'" line="477" column="24" />
+        <mark key="[" line="84" column="16" />
+        <mark key="]" line="84" column="18" />
+        <mark key="." line="84" column="18" />
+        <mark key="^" line="84" column="18" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/Marionetee-Test/index.html" timestamp="1475071611477">
         <mark key="[" line="9" column="0" />
@@ -264,11 +265,14 @@
         <mark key="." line="50" column="26" />
         <mark key="^" line="52" column="18" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/tpl/AlertImporterTripResultView.html" timestamp="1476370228298">
+        <mark key="'" line="15" column="63" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/tpl/AlertImporterTripInputView.html" timestamp="1476370245648">
+        <mark key="'" line="262" column="38" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="21" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/app.js" />
-      <jump line="214" column="9" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
-      <jump line="20" column="21" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/app.js" />
       <jump line="136" column="4" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
       <jump line="206" column="4" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
       <jump line="235" column="23" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
@@ -366,19 +370,22 @@
       <jump line="158" column="37" filename="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" />
       <jump line="207" column="12" filename="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" />
       <jump line="445" column="75" filename="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" />
+      <jump line="477" column="24" filename="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" />
+      <jump line="15" column="63" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/tpl/AlertImporterTripResultView.html" />
+      <jump line="262" column="38" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/tpl/AlertImporterTripInputView.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>U</text>
       </register>
       <register name="l" type="4">
         <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>U</text>
       </register>
       <register name="/" type="4">
-        <text>ip</text>
+        <text>Host</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc29sZS5sb2coImxpc3QgPSAiICsgbGwpOwo=</text>
@@ -415,9 +422,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ip</last-search>
+      <last-search>Host</last-search>
       <last-offset />
-      <last-pattern>ip</last-pattern>
+      <last-pattern>Host</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -445,6 +452,8 @@
         <entry>hour</entry>
         <entry>max</entry>
         <entry>ip</entry>
+        <entry>HostIp</entry>
+        <entry>Host</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
