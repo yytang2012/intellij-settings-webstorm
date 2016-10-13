@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/WebstormProjects/marionetteJS/app/main.js" timestamp="1474919251678">
@@ -65,13 +65,13 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" timestamp="1476370125456">
+      <file name="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" timestamp="1476371255136">
         <mark key="a" line="427" column="22" />
-        <mark key="'" line="477" column="24" />
-        <mark key="[" line="84" column="16" />
-        <mark key="]" line="84" column="18" />
-        <mark key="." line="84" column="18" />
-        <mark key="^" line="84" column="18" />
+        <mark key="'" line="483" column="24" />
+        <mark key="[" line="452" column="42" />
+        <mark key="]" line="452" column="45" />
+        <mark key="." line="452" column="45" />
+        <mark key="^" line="452" column="45" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/Marionetee-Test/index.html" timestamp="1475071611477">
         <mark key="[" line="9" column="0" />
@@ -189,11 +189,11 @@
         <mark key="." line="24" column="14" />
         <mark key="^" line="24" column="14" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/comics-novels-nodeJS/app.js" timestamp="1476306185160">
-        <mark key="[" line="73" column="20" />
-        <mark key="]" line="73" column="20" />
-        <mark key="^" line="73" column="20" />
-        <mark key="." line="73" column="20" />
+      <file name="$USER_HOME$/WebstormProjects/comics-novels-nodeJS/app.js" timestamp="1476370930479">
+        <mark key="[" line="63" column="34" />
+        <mark key="]" line="63" column="35" />
+        <mark key="^" line="63" column="35" />
+        <mark key="." line="63" column="35" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/empty-test/package.json" timestamp="1473996078320">
         <mark key="[" line="4" column="24" />
@@ -265,7 +265,7 @@
         <mark key="." line="50" column="26" />
         <mark key="^" line="52" column="18" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/tpl/AlertImporterTripResultView.html" timestamp="1476370228298">
+      <file name="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/tpl/AlertImporterTripResultView.html" timestamp="1476371579864">
         <mark key="'" line="15" column="63" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/tpl/AlertImporterTripInputView.html" timestamp="1476370245648">
@@ -376,13 +376,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>U</text>
+        <text>();</text>
       </register>
       <register name="l" type="4">
         <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>U</text>
+        <text>();</text>
       </register>
       <register name="/" type="4">
         <text>Host</text>
@@ -391,31 +391,31 @@
         <text encoding="base64">Y29uc29sZS5sb2coImxpc3QgPSAiICsgbGwpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByb3cudGltZSA9IF8ubWluKHZhbHVlLm1hcChmdW5jdGlvbihpdGVtKSB7IHJldHVybiBpdGVtLnRpbWU7IH0pKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByb3cudGltZSA9IF8uY2hhaW4odmFsdWUpLm1hcChmdW5jdGlvbihpdGVtKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gaXRlbS50aW1lOwogICAgICAgICAgICAgIH0pLnNvcnQoKS5maXJzdCgpLnZhbHVlKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGwuc29ydCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
-        <text>-</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICByb3cudGltZXMgPSB2YWx1ZS4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByb3cudGltZSA9IF8ubWluKHZhbHVlLm1hcChmdW5jdGlvbihpdGVtKSB7IHJldHVybiBpdGVtLnRpbWU7IH0pKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFyIFNpbmdsZXRvbiA9IHJlcXVpcmUoJ2xpYnMvc2luZ2xldG9uJyk7Cg==</text>
+        <text encoding="base64">bGwuc29ydCgpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="6" type="4">
+        <text>-</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm91dGVyLm9uKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuYWEuc2V0KHtuYW1lOidoaCd9KTsK</text>
+        <text encoding="base64">dmFyIFNpbmdsZXRvbiA9IHJlcXVpcmUoJ2xpYnMvc2luZ2xldG9uJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJhIG5ldyB3b3JsZCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
