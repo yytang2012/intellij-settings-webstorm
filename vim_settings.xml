@@ -65,13 +65,13 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" timestamp="1476729262887">
+      <file name="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" timestamp="1476730315900">
         <mark key="a" line="427" column="22" />
-        <mark key="'" line="478" column="24" />
-        <mark key="[" line="436" column="16" />
-        <mark key="]" line="435" column="19" />
-        <mark key="^" line="435" column="19" />
-        <mark key="." line="435" column="19" />
+        <mark key="'" line="84" column="11" />
+        <mark key="[" line="430" column="27" />
+        <mark key="]" line="430" column="29" />
+        <mark key="^" line="430" column="29" />
+        <mark key="." line="430" column="29" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/Marionetee-Test/index.html" timestamp="1475071611477">
         <mark key="[" line="9" column="0" />
@@ -279,11 +279,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="4" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
-      <jump line="206" column="4" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
-      <jump line="235" column="23" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
-      <jump line="236" column="27" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
-      <jump line="19" column="4" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
       <jump line="20" column="6" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
       <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
       <jump line="130" column="33" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
@@ -379,58 +374,63 @@
       <jump line="477" column="24" filename="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" />
       <jump line="15" column="63" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/tpl/AlertImporterTripResultView.html" />
       <jump line="262" column="38" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/tpl/AlertImporterTripInputView.html" />
+      <jump line="459" column="27" filename="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" />
+      <jump line="488" column="24" filename="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" />
+      <jump line="490" column="18" filename="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" />
+      <jump line="23" column="9" filename="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" />
+      <jump line="84" column="11" filename="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>parseInt(item.count, 10)</text>
       </register>
       <register name="l" type="4">
         <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>parseInt(item.count, 10)</text>
       </register>
       <register name="/" type="4">
-        <text>first</text>
+        <text>countSum</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRoaXMudWkudGFibGUuRGF0YVRhYmxlKHsKICAgICAgZGF0YTogIHRoaXMubW9kZWwuZ2V0KCdkYXRhU2V0JyksCiAgICAgIGNvbHVtbnM6IHNlbGYubW9kZWwuZ2V0KCdjb2x1bW5zJyksCiAgICAgIGRlZmVyUmVuZGVyOiB0cnVlLAogICAgICBhdXRvV2lkdGg6ICBmYWxzZSwKICAgICAgc2VhcmNoRGVsYXk6IDQwMCwKICAgICAgZGVzdHJveTogdHJ1ZSwKICAgICAgcmVzcG9uc2l2ZTogdHJ1ZSwKICAgICAgbGVuZ3RoQ2hhbmdlOiBmYWxzZSwKICAgICAgcGFnZUxlbmd0aDogNTAsCiAgICAgIHNjcm9sbFk6ICc0MDBweCcsCiAgICAgIHNjcm9sbENvbGxhcHNlOiB0cnVlLAogICAgICBzdGF0ZVNhdmU6IGZhbHNlLAogICAgICBjcmVhdGVkUm93IDogZnVuY3Rpb24oIHJvdywgZGF0YSwgZGF0YUluZGV4ICkgewogICAgICAgICQocm93KS5hdHRyKCdkYXRhLWluZGV4JywgZGF0YUluZGV4KTsKICAgICAgfSwKICAgICAgZG9tOiAnQmxmdGlwJywKICAgICAgYnV0dG9uczogWyB7CiAgICAgICAgZXh0ZW5kOiAnY3N2SHRtbDUnLAogICAgICAgIHRleHQ6ICdFeHBvcnQgdG8gQ1NWJywKICAgICAgICB0aXRsZTogJ0FsZXJ0SW1wb3J0UmVzdWx0JwogICAgICB9IF0KICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByb3cuY291bnQgPSB2YWx1ZS5sZW5ndGg7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2codW5pcXVlTGlzdCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2codW5pcXVlTGlzdCk7CmNvbnNvbGUubG9nKHVuaTIpOwo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2codW5pcXVlTGlzdCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByb3cuY291bnRzID0gdmFsdWUubWFwKGZ1bmN0aW9uKGl0ZW0pIHsKICAgICAgICAgICAgICAgIHJldHVybiBwYXJzZUludChpdGVtLmNvdW50LCAxMCk7CiAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2codW5pcXVlTGlzdCk7CmNvbnNvbGUubG9nKHVuaTIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByb3cudGltZSA9IHJvdy50aW1lc1swXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByb3cuY291bnRzID0gdmFsdWUubWFwKGZ1bmN0aW9uKGl0ZW0pIHsKICAgICAgICAgICAgICAgIHJldHVybiBwYXJzZUludChpdGVtLmNvdW50LCAxMCk7CiAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByb3cub3BlcmF0aW9ucyA9IHZhbHVlLm1hcChmdW5jdGlvbihpdGVtKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gaXRlbS5vcGVyYXRpb247CiAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByb3cudGltZSA9IHJvdy50aW1lc1swXTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByb3cub3BlcmF0aW9ucyA9IHZhbHVlLm1hcChmdW5jdGlvbihpdGVtKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gaXRlbS5vcGVyYXRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByb3cub3BlcmF0aW9ucyA9IHZhbHVlLm1hcChmdW5jdGlvbihpdGVtKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gaXRlbS5vcGVyYXRpb247CiAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhciBkZXRhaWxEYXRhID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByb3cub3BlcmF0aW9ucyA9IHZhbHVlLm1hcChmdW5jdGlvbihpdGVtKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gaXRlbS5vcGVyYXRpb247Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByb3cudGltZSA9IF8uY2hhaW4odmFsdWUpLm1hcChmdW5jdGlvbihpdGVtKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gaXRlbS50aW1lOwogICAgICAgICAgICAgIH0pLnNvcnQoKS5maXJzdCgpLnZhbHVlKCk7Cg==</text>
+        <text encoding="base64">ICAgIHZhciBkZXRhaWxEYXRhID0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>first</last-search>
+      <last-search>countSum</last-search>
       <last-offset />
-      <last-pattern>first</last-pattern>
+      <last-pattern>countSum</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -461,6 +461,7 @@
         <entry>HostIp</entry>
         <entry>Host</entry>
         <entry>first</entry>
+        <entry>countSum</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
