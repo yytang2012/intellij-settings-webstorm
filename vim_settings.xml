@@ -97,7 +97,7 @@
         <mark key="^" line="19" column="11" />
         <mark key="." line="19" column="11" />
       </file>
-      <file name="/JavaScript Console" timestamp="1476220983245">
+      <file name="/JavaScript Console" timestamp="1476733502538">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/empty-test/public/javascripts/myCtrl.js" timestamp="1474309226171">
@@ -106,7 +106,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" timestamp="1476382615451" />
+      <file name="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" timestamp="1476733093364">
+        <mark key="'" line="216" column="17" />
+        <mark key="[" line="238" column="0" />
+        <mark key="]" line="246" column="5" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/empty-test/main.js" timestamp="1474301031547">
         <mark key="'" line="29" column="8" />
         <mark key="[" line="39" column="18" />
@@ -248,10 +252,12 @@
         <mark key="^" line="10" column="22" />
         <mark key="." line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" timestamp="1476373242218">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" timestamp="1476733499627">
+        <mark key="'" line="24" column="43" />
+        <mark key="[" line="212" column="0" />
+        <mark key="]" line="212" column="20" />
+        <mark key="." line="212" column="20" />
+        <mark key="^" line="212" column="20" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/Marionetee-Test/app/models/rootModel.js" timestamp="1474992052265">
         <mark key="[" line="5" column="0" />
@@ -271,37 +277,18 @@
         <mark key="." line="50" column="26" />
         <mark key="^" line="52" column="18" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/tpl/AlertImporterTripResultView.html" timestamp="1476382313357">
+      <file name="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/tpl/AlertImporterTripResultView.html" timestamp="1476732157828">
         <mark key="'" line="15" column="63" />
+        <mark key="[" line="40" column="67" />
+        <mark key="]" line="40" column="67" />
+        <mark key="." line="40" column="67" />
+        <mark key="^" line="40" column="67" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/tpl/AlertImporterTripInputView.html" timestamp="1476370245648">
         <mark key="'" line="262" column="38" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="6" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
-      <jump line="130" column="33" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
-      <jump line="131" column="31" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
-      <jump line="133" column="4" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
-      <jump line="193" column="33" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
-      <jump line="194" column="31" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
-      <jump line="195" column="15" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
-      <jump line="196" column="6" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
-      <jump line="197" column="22" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/adapter.js" />
-      <jump line="137" column="21" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/rtcClient.js" />
-      <jump line="16" column="6" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/rtcClient.js" />
-      <jump line="69" column="11" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/rtcClient.js" />
-      <jump line="140" column="15" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/rtcClient.js" />
-      <jump line="72" column="15" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/rtcClient.js" />
-      <jump line="71" column="15" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/rtcClient.js" />
-      <jump line="70" column="15" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/rtcClient.js" />
-      <jump line="163" column="15" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/rtcClient.js" />
-      <jump line="88" column="4" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/rtcClient.js" />
-      <jump line="21" column="30" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/app.js" />
-      <jump line="131" column="27" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/app.js" />
-      <jump line="148" column="27" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/app.js" />
-      <jump line="23" column="39" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/app.js" />
       <jump line="42" column="39" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/app.js" />
       <jump line="122" column="20" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/app.js" />
       <jump line="124" column="20" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/app.js" />
@@ -379,58 +366,81 @@
       <jump line="490" column="18" filename="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" />
       <jump line="23" column="9" filename="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" />
       <jump line="84" column="11" filename="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" />
+      <jump line="252" column="3" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" />
+      <jump line="243" column="38" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" />
+      <jump line="244" column="44" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" />
+      <jump line="258" column="9" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" />
+      <jump line="259" column="15" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" />
+      <jump line="12" column="4" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" />
+      <jump line="49" column="31" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" />
+      <jump line="116" column="45" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" />
+      <jump line="183" column="10" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" />
+      <jump line="197" column="45" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" />
+      <jump line="198" column="13" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" />
+      <jump line="200" column="23" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" />
+      <jump line="205" column="21" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" />
+      <jump line="206" column="40" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" />
+      <jump line="216" column="17" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" />
+      <jump line="178" column="9" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" />
+      <jump line="195" column="9" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" />
+      <jump line="221" column="19" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" />
+      <jump line="45" column="26" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" />
+      <jump line="66" column="26" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" />
+      <jump line="199" column="9" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" />
+      <jump line="200" column="0" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" />
+      <jump line="24" column="43" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>parseInt(item.count, 10)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAnb3MnOiByb3cub3MsCiAgICAgICAgJ2FnZW50aWQnOiByb3cuYWdlbnRpZCwKICAgICAgICAnaG9zdE5hbWUnOiByb3cucmVwcmVzZW50YXRpdmVIb3N0bmFtZSwKICAgICAgICAnYWxlcnQuaG9zdE5hbWUnOiByb3cucmVwcmVzZW50YXRpdmVIb3N0bmFtZQo=</text>
       </register>
       <register name="l" type="4">
         <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>parseInt(item.count, 10)</text>
+        <text>M</text>
       </register>
       <register name="/" type="4">
-        <text>countSum</text>
+        <text>mytable</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMudWkudGFibGUuRGF0YVRhYmxlKHsKICAgICAgZGF0YTogIHRoaXMubW9kZWwuZ2V0KCdkYXRhU2V0JyksCiAgICAgIGNvbHVtbnM6IHNlbGYubW9kZWwuZ2V0KCdjb2x1bW5zJyksCiAgICAgIGRlZmVyUmVuZGVyOiB0cnVlLAogICAgICBhdXRvV2lkdGg6ICBmYWxzZSwKICAgICAgc2VhcmNoRGVsYXk6IDQwMCwKICAgICAgZGVzdHJveTogdHJ1ZSwKICAgICAgcmVzcG9uc2l2ZTogdHJ1ZSwKICAgICAgbGVuZ3RoQ2hhbmdlOiBmYWxzZSwKICAgICAgcGFnZUxlbmd0aDogNTAsCiAgICAgIHNjcm9sbFk6ICc0MDBweCcsCiAgICAgIHNjcm9sbENvbGxhcHNlOiB0cnVlLAogICAgICBzdGF0ZVNhdmU6IGZhbHNlLAogICAgICBjcmVhdGVkUm93IDogZnVuY3Rpb24oIHJvdywgZGF0YSwgZGF0YUluZGV4ICkgewogICAgICAgICQocm93KS5hdHRyKCdkYXRhLWluZGV4JywgZGF0YUluZGV4KTsKICAgICAgfSwKICAgICAgZG9tOiAnQmxmdGlwJywKICAgICAgYnV0dG9uczogWyB7CiAgICAgICAgZXh0ZW5kOiAnY3N2SHRtbDUnLAogICAgICAgIHRleHQ6ICdFeHBvcnQgdG8gQ1NWJywKICAgICAgICB0aXRsZTogJ0FsZXJ0SW1wb3J0UmVzdWx0JwogICAgICB9IF0KICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIHZhciByb3cgPSB0aGlzLm15dGFibGUucm93KCd0ci5pbmZvJykuZGF0YSgpOwogICAgaWYoIV8uaXNVbmRlZmluZWQocm93KSl7CiAgICAgIHRoaXMubW9kZWwuc2V0KHsKICAgICAgICAnb3MnOiByb3cub3MsCiAgICAgICAgJ2FnZW50aWQnOiByb3cuYWdlbnRpZCwKICAgICAgICAnaG9zdE5hbWUnOiByb3cucmVwcmVzZW50YXRpdmVIb3N0bmFtZSwKICAgICAgICAnYWxlcnQuaG9zdE5hbWUnOiByb3cucmVwcmVzZW50YXRpdmVIb3N0bmFtZQogICAgICB9KTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByb3cuY291bnQgPSB2YWx1ZS5sZW5ndGg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAnb3MnOiByb3cub3MsCiAgICAgICAgJ2FnZW50aWQnOiByb3cuYWdlbnRpZCwKICAgICAgICAnaG9zdE5hbWUnOiByb3cucmVwcmVzZW50YXRpdmVIb3N0bmFtZSwKICAgICAgICAnYWxlcnQuaG9zdE5hbWUnOiByb3cucmVwcmVzZW50YXRpdmVIb3N0bmFtZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2codW5pcXVlTGlzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByb3cuY291bnQgPSB2YWx1ZS5sZW5ndGg7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2codW5pcXVlTGlzdCk7CmNvbnNvbGUubG9nKHVuaTIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByb3cuY291bnRzID0gdmFsdWUubWFwKGZ1bmN0aW9uKGl0ZW0pIHsKICAgICAgICAgICAgICAgIHJldHVybiBwYXJzZUludChpdGVtLmNvdW50LCAxMCk7CiAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2codW5pcXVlTGlzdCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByb3cudGltZSA9IHJvdy50aW1lc1swXTsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2codW5pcXVlTGlzdCk7CmNvbnNvbGUubG9nKHVuaTIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByb3cub3BlcmF0aW9ucyA9IHZhbHVlLm1hcChmdW5jdGlvbihpdGVtKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gaXRlbS5vcGVyYXRpb247CiAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByb3cuY291bnRzID0gdmFsdWUubWFwKGZ1bmN0aW9uKGl0ZW0pIHsKICAgICAgICAgICAgICAgIHJldHVybiBwYXJzZUludChpdGVtLmNvdW50LCAxMCk7CiAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByb3cub3BlcmF0aW9ucyA9IHZhbHVlLm1hcChmdW5jdGlvbihpdGVtKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gaXRlbS5vcGVyYXRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByb3cudGltZSA9IHJvdy50aW1lc1swXTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciBkZXRhaWxEYXRhID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByb3cub3BlcmF0aW9ucyA9IHZhbHVlLm1hcChmdW5jdGlvbihpdGVtKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gaXRlbS5vcGVyYXRpb247CiAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>countSum</last-search>
+      <last-search>mytable</last-search>
       <last-offset />
-      <last-pattern>countSum</last-pattern>
+      <last-pattern>mytable</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -443,7 +453,6 @@
         <entry>routes</entry>
         <entry>explore</entry>
         <entry>listen</entry>
-        <entry>hostName</entry>
         <entry>modelevents</entry>
         <entry encoding="base64">XDxyb290XD4=</entry>
         <entry>domID</entry>
@@ -462,6 +471,8 @@
         <entry>Host</entry>
         <entry>first</entry>
         <entry>countSum</entry>
+        <entry>hostName</entry>
+        <entry>mytable</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
