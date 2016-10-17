@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/WebstormProjects/marionetteJS/app/main.js" timestamp="1474919251678">
@@ -106,10 +106,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" timestamp="1476733093364">
-        <mark key="'" line="216" column="17" />
-        <mark key="[" line="238" column="0" />
-        <mark key="]" line="246" column="5" />
+      <file name="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" timestamp="1476734929776">
+        <mark key="'" line="259" column="15" />
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="12" />
+        <mark key="^" line="12" column="12" />
+        <mark key="." line="12" column="12" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/empty-test/main.js" timestamp="1474301031547">
         <mark key="'" line="29" column="8" />
@@ -252,8 +254,8 @@
         <mark key="^" line="10" column="22" />
         <mark key="." line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" timestamp="1476733499627">
-        <mark key="'" line="24" column="43" />
+      <file name="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" timestamp="1476733659815">
+        <mark key="'" line="24" column="35" />
         <mark key="[" line="212" column="0" />
         <mark key="]" line="212" column="20" />
         <mark key="." line="212" column="20" />
@@ -289,12 +291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="39" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/app.js" />
-      <jump line="122" column="20" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/app.js" />
-      <jump line="124" column="20" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/app.js" />
-      <jump line="126" column="28" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/app.js" />
-      <jump line="146" column="24" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/app.js" />
-      <jump line="4" column="23" filename="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/app.js" />
       <jump line="58" column="32" filename="$USER_HOME$/WebstormProjects/mri/mri-server.js" />
       <jump line="119" column="25" filename="$USER_HOME$/WebstormProjects/mri/mri-server.js" />
       <jump line="15" column="29" filename="$USER_HOME$/WebstormProjects/webpack-helloworld/js/app.js" />
@@ -367,10 +363,20 @@
       <jump line="23" column="9" filename="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" />
       <jump line="84" column="11" filename="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" />
       <jump line="252" column="3" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" />
-      <jump line="243" column="38" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" />
-      <jump line="244" column="44" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" />
-      <jump line="258" column="9" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" />
-      <jump line="259" column="15" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" />
+      <jump line="178" column="9" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" />
+      <jump line="195" column="9" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" />
+      <jump line="221" column="19" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" />
+      <jump line="45" column="26" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" />
+      <jump line="66" column="26" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" />
+      <jump line="199" column="9" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" />
+      <jump line="200" column="0" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" />
+      <jump line="204" column="0" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" />
+      <jump line="206" column="9" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" />
+      <jump line="12" column="4" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" />
+      <jump line="24" column="35" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" />
+      <jump line="50" column="25" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" />
+      <jump line="48" column="2" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" />
+      <jump line="20" column="54" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" />
       <jump line="12" column="4" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" />
       <jump line="49" column="31" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" />
       <jump line="116" column="45" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" />
@@ -381,14 +387,10 @@
       <jump line="205" column="21" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" />
       <jump line="206" column="40" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" />
       <jump line="216" column="17" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" />
-      <jump line="178" column="9" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" />
-      <jump line="195" column="9" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" />
-      <jump line="221" column="19" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" />
-      <jump line="45" column="26" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" />
-      <jump line="66" column="26" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" />
-      <jump line="199" column="9" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" />
-      <jump line="200" column="0" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" />
-      <jump line="24" column="43" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" />
+      <jump line="243" column="39" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" />
+      <jump line="244" column="44" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" />
+      <jump line="258" column="9" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" />
+      <jump line="259" column="15" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -401,7 +403,7 @@
         <text>M</text>
       </register>
       <register name="/" type="4">
-        <text>mytable</text>
+        <text>ui.hostName</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhciByb3cgPSB0aGlzLm15dGFibGUucm93KCd0ci5pbmZvJykuZGF0YSgpOwogICAgaWYoIV8uaXNVbmRlZmluZWQocm93KSl7CiAgICAgIHRoaXMubW9kZWwuc2V0KHsKICAgICAgICAnb3MnOiByb3cub3MsCiAgICAgICAgJ2FnZW50aWQnOiByb3cuYWdlbnRpZCwKICAgICAgICAnaG9zdE5hbWUnOiByb3cucmVwcmVzZW50YXRpdmVIb3N0bmFtZSwKICAgICAgICAnYWxlcnQuaG9zdE5hbWUnOiByb3cucmVwcmVzZW50YXRpdmVIb3N0bmFtZQogICAgICB9KTsKICAgIH0K</text>
@@ -438,9 +440,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mytable</last-search>
+      <last-search>ui.hostName</last-search>
       <last-offset />
-      <last-pattern>mytable</last-pattern>
+      <last-pattern>ui.hostName</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -471,8 +473,11 @@
         <entry>Host</entry>
         <entry>first</entry>
         <entry>countSum</entry>
-        <entry>hostName</entry>
         <entry>mytable</entry>
+        <entry>malwareName</entry>
+        <entry>bindings</entry>
+        <entry>hostName</entry>
+        <entry>ui.hostName</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
