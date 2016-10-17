@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/WebstormProjects/marionetteJS/app/main.js" timestamp="1474919251678">
@@ -65,13 +65,13 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" timestamp="1476382222872">
+      <file name="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" timestamp="1476729262887">
         <mark key="a" line="427" column="22" />
-        <mark key="'" line="476" column="24" />
-        <mark key="[" line="448" column="0" />
-        <mark key="]" line="448" column="0" />
-        <mark key="^" line="446" column="38" />
-        <mark key="." line="448" column="0" />
+        <mark key="'" line="478" column="24" />
+        <mark key="[" line="436" column="16" />
+        <mark key="]" line="435" column="19" />
+        <mark key="^" line="435" column="19" />
+        <mark key="." line="435" column="19" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/Marionetee-Test/index.html" timestamp="1475071611477">
         <mark key="[" line="9" column="0" />
@@ -190,11 +190,11 @@
         <mark key="." line="24" column="14" />
         <mark key="^" line="24" column="14" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/comics-novels-nodeJS/app.js" timestamp="1476370930479">
-        <mark key="[" line="62" column="34" />
-        <mark key="]" line="62" column="35" />
-        <mark key="^" line="62" column="35" />
-        <mark key="." line="62" column="35" />
+      <file name="$USER_HOME$/WebstormProjects/comics-novels-nodeJS/app.js" timestamp="1476729227201">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="86" column="17" />
+        <mark key="^" line="86" column="17" />
+        <mark key="." line="86" column="17" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/empty-test/package.json" timestamp="1473996078320">
         <mark key="[" line="4" column="24" />
@@ -381,14 +381,14 @@
       <jump line="262" column="38" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/tpl/AlertImporterTripInputView.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByb3cuY291bnRzID0gdmFsdWUubWFwKGZ1bmN0aW9uKGl0ZW0pIHsKICAgICAgICAgICAgICAgIHJldHVybiBwYXJzZUludChpdGVtLmNvdW50LCAxMCk7CiAgICAgICAgICAgICAgfSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="l" type="4">
         <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>first</text>
@@ -397,31 +397,31 @@
         <text encoding="base64">ICAgIHRoaXMudWkudGFibGUuRGF0YVRhYmxlKHsKICAgICAgZGF0YTogIHRoaXMubW9kZWwuZ2V0KCdkYXRhU2V0JyksCiAgICAgIGNvbHVtbnM6IHNlbGYubW9kZWwuZ2V0KCdjb2x1bW5zJyksCiAgICAgIGRlZmVyUmVuZGVyOiB0cnVlLAogICAgICBhdXRvV2lkdGg6ICBmYWxzZSwKICAgICAgc2VhcmNoRGVsYXk6IDQwMCwKICAgICAgZGVzdHJveTogdHJ1ZSwKICAgICAgcmVzcG9uc2l2ZTogdHJ1ZSwKICAgICAgbGVuZ3RoQ2hhbmdlOiBmYWxzZSwKICAgICAgcGFnZUxlbmd0aDogNTAsCiAgICAgIHNjcm9sbFk6ICc0MDBweCcsCiAgICAgIHNjcm9sbENvbGxhcHNlOiB0cnVlLAogICAgICBzdGF0ZVNhdmU6IGZhbHNlLAogICAgICBjcmVhdGVkUm93IDogZnVuY3Rpb24oIHJvdywgZGF0YSwgZGF0YUluZGV4ICkgewogICAgICAgICQocm93KS5hdHRyKCdkYXRhLWluZGV4JywgZGF0YUluZGV4KTsKICAgICAgfSwKICAgICAgZG9tOiAnQmxmdGlwJywKICAgICAgYnV0dG9uczogWyB7CiAgICAgICAgZXh0ZW5kOiAnY3N2SHRtbDUnLAogICAgICAgIHRleHQ6ICdFeHBvcnQgdG8gQ1NWJywKICAgICAgICB0aXRsZTogJ0FsZXJ0SW1wb3J0UmVzdWx0JwogICAgICB9IF0KICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByb3cuY291bnRzID0gdmFsdWUubWFwKGZ1bmN0aW9uKGl0ZW0pIHsKICAgICAgICAgICAgICAgIHJldHVybiBwYXJzZUludChpdGVtLmNvdW50LCAxMCk7CiAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByb3cudGltZSA9IHJvdy50aW1lc1swXTsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2codW5pcXVlTGlzdCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByb3cub3BlcmF0aW9ucyA9IHZhbHVlLm1hcChmdW5jdGlvbihpdGVtKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gaXRlbS5vcGVyYXRpb247CiAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2codW5pcXVlTGlzdCk7CmNvbnNvbGUubG9nKHVuaTIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByb3cub3BlcmF0aW9ucyA9IHZhbHVlLm1hcChmdW5jdGlvbihpdGVtKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gaXRlbS5vcGVyYXRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByb3cuY291bnRzID0gdmFsdWUubWFwKGZ1bmN0aW9uKGl0ZW0pIHsKICAgICAgICAgICAgICAgIHJldHVybiBwYXJzZUludChpdGVtLmNvdW50LCAxMCk7CiAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciBkZXRhaWxEYXRhID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByb3cudGltZSA9IHJvdy50aW1lc1swXTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByb3cudGltZSA9IF8uY2hhaW4odmFsdWUpLm1hcChmdW5jdGlvbihpdGVtKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gaXRlbS50aW1lOwogICAgICAgICAgICAgIH0pLnNvcnQoKS5maXJzdCgpLnZhbHVlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByb3cub3BlcmF0aW9ucyA9IHZhbHVlLm1hcChmdW5jdGlvbihpdGVtKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gaXRlbS5vcGVyYXRpb247CiAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByb3cub3BlcmF0aW9ucyA9IHZhbHVlLm1hcChmdW5jdGlvbihpdGVtKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gaXRlbS5vcGVyYXRpb247Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByb3cudGltZXMgPSB2YWx1ZS4K</text>
+        <text encoding="base64">ICAgIHZhciBkZXRhaWxEYXRhID0gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByb3cudGltZSA9IF8ubWluKHZhbHVlLm1hcChmdW5jdGlvbihpdGVtKSB7IHJldHVybiBpdGVtLnRpbWU7IH0pKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByb3cudGltZSA9IF8uY2hhaW4odmFsdWUpLm1hcChmdW5jdGlvbihpdGVtKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gaXRlbS50aW1lOwogICAgICAgICAgICAgIH0pLnNvcnQoKS5maXJzdCgpLnZhbHVlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
