@@ -53,12 +53,12 @@
         <mark key="^" line="57" column="42" />
         <mark key="." line="57" column="42" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/webpack-helloworld/js/views.js" timestamp="1476814517083">
+      <file name="$USER_HOME$/WebstormProjects/webpack-helloworld/js/views.js" timestamp="1476816541021">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="58" column="4" />
-        <mark key="]" line="58" column="38" />
-        <mark key="^" line="58" column="38" />
-        <mark key="." line="58" column="38" />
+        <mark key="[" line="60" column="24" />
+        <mark key="]" line="61" column="29" />
+        <mark key="^" line="61" column="29" />
+        <mark key="." line="61" column="29" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/mri/models/alert_importer_queries.js" timestamp="1476299414256">
         <mark key="[" line="148" column="133" />
@@ -397,13 +397,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
       <register name="l" type="4">
         <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>ui.hostName</text>
