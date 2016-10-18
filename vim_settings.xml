@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/WebstormProjects/marionetteJS/app/main.js" timestamp="1474919251678">
@@ -53,12 +53,12 @@
         <mark key="^" line="57" column="42" />
         <mark key="." line="57" column="42" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/webpack-helloworld/js/views.js" timestamp="1476816541021">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="60" column="24" />
-        <mark key="]" line="61" column="29" />
-        <mark key="^" line="61" column="29" />
-        <mark key="." line="61" column="29" />
+      <file name="$USER_HOME$/WebstormProjects/webpack-helloworld/js/views.js" timestamp="1476822174332">
+        <mark key="'" line="5" column="25" />
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="23" />
+        <mark key="^" line="5" column="23" />
+        <mark key="." line="5" column="23" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/mri/models/alert_importer_queries.js" timestamp="1476299414256">
         <mark key="[" line="148" column="133" />
@@ -288,7 +288,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="29" filename="$USER_HOME$/WebstormProjects/webpack-helloworld/js/app.js" />
       <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/webpack-helloworld/templates/layout.html" />
       <jump line="8" column="26" filename="$USER_HOME$/WebstormProjects/marionetteJS/app/main.js" />
       <jump line="7" column="26" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/main.js" />
@@ -388,16 +387,17 @@
       <jump line="259" column="15" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-input-view.js" />
       <jump line="20" column="51" filename="$USER_HOME$/WebstormProjects/webpack-helloworld/js/views.js" />
       <jump line="6" column="0" filename="$USER_HOME$/WebstormProjects/webpack-helloworld/js/views.js" />
+      <jump line="5" column="25" filename="$USER_HOME$/WebstormProjects/webpack-helloworld/js/views.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">c2ltcGxlTGlzdCA9IG5ldyBCYWNrYm9uZS5JbnRlcmFjdGl2ZUxpc3QoewogICAgICAgICAgICBjb2xsZWN0aW9uOiBjb3VudHJpZXMsCiAgICAgICAgICAgIGVsOiAkKCcjc2ltcGxlLXJlc3VsdHMnKSwKICAgICAgICAgICAgdGVtcGxhdGU6IF8udGVtcGxhdGUoJzxwPjwlPSBuYW1lICU+PC9wPicpLAogICAgICAgICAgICBsaW1pdDogNSwKICAgICAgICAgICAgY2xpY2s6IGZ1bmN0aW9uKG1vZGVsLCBpKSB7CiAgICAgICAgICAgICAgICB0aGlzLiRlbC5lbXB0eSgpOwogICAgICAgICAgICAgICAgYWxlcnQoJ2NsaWNrZWQgJyArIG1vZGVsLmdldCgnYWJicmV2aWF0aW9uJykgKycgKCcgKyBpICsgJyknKTsKICAgICAgICAgICAgfSwKICAgICAgICB9KTsKCiAgICAgICAgJCgnYnV0dG9uI3NpbXBsZS1saXN0Jykub24oJ2NsaWNrJywgZnVuY3Rpb24oKSB7IHNpbXBsZUxpc3QucmVuZGVyKCkgfSk7</text>
+        <text>u</text>
       </register>
       <register name="l" type="4">
         <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text>ui.hostName</text>
