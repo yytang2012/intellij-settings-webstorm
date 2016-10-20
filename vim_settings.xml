@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/WebstormProjects/marionetteJS/app/main.js" timestamp="1474919251678">
@@ -86,10 +86,10 @@
         <mark key="^" line="9" column="25" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/webpack-helloworld/templates/searchArea.html" timestamp="1476989718385">
+      <file name="$USER_HOME$/WebstormProjects/webpack-helloworld/templates/searchArea.html" timestamp="1476992059373">
         <mark key="[" line="1" column="23" />
-        <mark key="]" line="1" column="77" />
-        <mark key="." line="1" column="77" />
+        <mark key="]" line="1" column="23" />
+        <mark key="." line="1" column="23" />
         <mark key="^" line="1" column="77" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/webpack-helloworld/templates/layout.html" timestamp="1476986799393">
@@ -397,13 +397,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$</text>
+        <text>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</text>
       </register>
       <register name="l" type="4">
         <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</text>
       </register>
       <register name="/" type="4">
         <text>ui.hostName</text>
