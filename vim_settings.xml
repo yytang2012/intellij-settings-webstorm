@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/WebstormProjects/empty-test/backbone.js" timestamp="1474472110062">
@@ -41,12 +41,12 @@
         <mark key="." line="159" column="5" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/webpack-helloworld/js/auto-complete-behavior.js" timestamp="1477328594510">
+      <file name="$USER_HOME$/WebstormProjects/webpack-helloworld/js/auto-complete-behavior.js" timestamp="1477329255633">
         <mark key="'" line="7" column="28" />
-        <mark key="[" line="30" column="53" />
-        <mark key="]" line="32" column="4" />
-        <mark key="^" line="32" column="4" />
-        <mark key="." line="32" column="4" />
+        <mark key="[" line="45" column="33" />
+        <mark key="]" line="45" column="37" />
+        <mark key="^" line="45" column="37" />
+        <mark key="." line="45" column="37" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/webpack-helloworld/js/router.js" timestamp="1475174272644">
         <mark key="[" line="9" column="18" />
@@ -404,13 +404,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>filed</text>
       </register>
       <register name="l" type="4">
         <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>filed</text>
       </register>
       <register name="/" type="4">
         <text>autoComplete</text>
