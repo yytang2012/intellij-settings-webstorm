@@ -237,11 +237,11 @@
       <file name="$USER_HOME$/WebstormProjects/mri/public/js/yutang/views/explorer-trip-input-view.js" timestamp="1475075603126">
         <mark key="'" line="130" column="33" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/webpack-helloworld/templates/auto_complete.html" timestamp="1476814906655">
-        <mark key="[" line="6" column="36" />
-        <mark key="]" line="7" column="3" />
-        <mark key="." line="7" column="3" />
-        <mark key="^" line="7" column="3" />
+      <file name="$USER_HOME$/WebstormProjects/webpack-helloworld/templates/auto_complete.html" timestamp="1477503146236">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="22" />
+        <mark key="." line="12" column="22" />
+        <mark key="^" line="12" column="22" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/test/app.js" timestamp="1467160804268">
         <mark key="[" line="27" column="0" />
@@ -400,20 +400,20 @@
       <jump line="12" column="28" filename="$USER_HOME$/WebstormProjects/webpack-helloworld/js/auto-complete-behavior.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJrZXk6ICIgKyBrZXkpOwogICAgICAgICAgICAgICAgY29uc29sZS5sb2coImZpZWxkOiAiICsgZmllbGQpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>22222222222</text>
       </register>
       <register name="l" type="4">
         <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>filed</text>
+        <text>22222222222</text>
       </register>
       <register name="/" type="4">
         <text>autoComplete</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygia2V5d29yZDogIiArIHRoaXMudmlldyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bGk+MjIyMjIyMjIyMjI8L2xpPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJrZXk6ICIgKyBrZXkpOwogICAgICAgICAgICAgICAgY29uc29sZS5sb2coImZpZWxkOiAiICsgZmllbGQpOwo=</text>
