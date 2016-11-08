@@ -1,14 +1,13 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WebstormProjects/marionetteJS/app/main.js" timestamp="1474919251678">
-        <mark key="'" line="8" column="26" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/WebstormProjects/mri/public/js/views/tpl/HeaderView.html" timestamp="1478629921762">
+        <mark key="[" line="25" column="57" />
+        <mark key="]" line="25" column="70" />
+        <mark key="." line="25" column="70" />
+        <mark key="^" line="25" column="70" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/empty-test/backbone.js" timestamp="1474472110062">
         <mark key="[" line="19" column="14" />
@@ -21,18 +20,6 @@
         <mark key="]" line="15" column="14" />
         <mark key="." line="15" column="14" />
         <mark key="^" line="15" column="14" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/empty-test/backbone.html" timestamp="1474470008774">
-        <mark key="[" line="43" column="36" />
-        <mark key="]" line="43" column="37" />
-        <mark key="^" line="43" column="37" />
-        <mark key="." line="43" column="37" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/Marionetee-Test/static/js/views.js" timestamp="1474988115296">
-        <mark key="[" line="8" column="41" />
-        <mark key="]" line="8" column="45" />
-        <mark key="^" line="8" column="45" />
-        <mark key="." line="8" column="45" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/test/test/main.js" timestamp="1467160876702">
         <mark key="'" line="18" column="33" />
@@ -60,29 +47,16 @@
         <mark key="." line="159" column="5" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/mri/models/alert_importer_queries.js" timestamp="1476299414256">
-        <mark key="[" line="148" column="133" />
-        <mark key="]" line="148" column="133" />
-        <mark key="." line="148" column="133" />
-        <mark key="^" line="148" column="133" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/webpack-helloworld/index.html" timestamp="1476821058498">
-        <mark key="[" line="31" column="7" />
-        <mark key="]" line="31" column="52" />
-        <mark key="^" line="31" column="52" />
-        <mark key="." line="31" column="52" />
+      <file name="$USER_HOME$/WebstormProjects/mri/public/js/application-i.js" timestamp="1478630367930">
+        <mark key="'" line="117" column="18" />
+        <mark key="[" line="120" column="18" />
+        <mark key="]" line="120" column="31" />
+        <mark key="." line="120" column="31" />
+        <mark key="^" line="120" column="31" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/webpack-helloworld/js/auto-complete-behavior.js" timestamp="1477332493058">
         <mark key="'" line="7" column="28" />
         <mark key="[" line="43" column="43" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" timestamp="1476730315900">
-        <mark key="a" line="427" column="22" />
-        <mark key="'" line="84" column="11" />
-        <mark key="[" line="430" column="27" />
-        <mark key="]" line="430" column="29" />
-        <mark key="^" line="430" column="29" />
-        <mark key="." line="430" column="29" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/webpack-helloworld/js/router.js" timestamp="1475174272644">
         <mark key="[" line="9" column="18" />
@@ -109,9 +83,6 @@
         <mark key="^" line="19" column="11" />
         <mark key="." line="19" column="11" />
       </file>
-      <file name="/JavaScript Console" timestamp="1476733502538">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/WebstormProjects/empty-test/public/javascripts/myCtrl.js" timestamp="1474309226171">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="42" />
@@ -125,37 +96,18 @@
         <mark key="^" line="12" column="12" />
         <mark key="." line="12" column="12" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/empty-test/main.js" timestamp="1474301031547">
-        <mark key="'" line="29" column="8" />
-        <mark key="[" line="39" column="18" />
-        <mark key="]" line="40" column="17" />
-        <mark key="." line="40" column="17" />
-        <mark key="^" line="40" column="17" />
+      <file name="$USER_HOME$/WebstormProjects/mri/public/js/application.js" timestamp="1478630302679">
+        <mark key="'" line="24" column="4" />
+        <mark key="[" line="53" column="38" />
+        <mark key="]" line="53" column="45" />
+        <mark key="." line="53" column="45" />
+        <mark key="^" line="53" column="45" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/webRTC-browser/views/local-cam.ejs" timestamp="1467765151804">
         <mark key="[" line="7" column="27" />
         <mark key="]" line="8" column="32" />
         <mark key="^" line="8" column="32" />
         <mark key="." line="8" column="32" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/webRTC-browser/views/index.ejs" timestamp="1467769966047">
-        <mark key="[" line="16" column="15" />
-        <mark key="]" line="16" column="32" />
-        <mark key="." line="16" column="32" />
-        <mark key="^" line="16" column="32" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/root.html" timestamp="1475009677756">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="17" />
-        <mark key="." line="0" column="17" />
-        <mark key="^" line="0" column="17" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/app.js" timestamp="1474380466245">
-        <mark key="'" line="4" column="23" />
-        <mark key="[" line="38" column="17" />
-        <mark key="]" line="38" column="18" />
-        <mark key="^" line="38" column="18" />
-        <mark key="." line="38" column="18" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/Marionetee-Test/webpack.config.js" timestamp="1474986092893">
         <mark key="[" line="19" column="5" />
@@ -175,6 +127,108 @@
         <mark key="]" line="25" column="10" />
         <mark key="^" line="25" column="10" />
         <mark key="." line="25" column="10" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/mri/public/js/models/session-model.js" timestamp="1475175549128">
+        <mark key="'" line="3" column="19" />
+        <mark key="]" line="6" column="1" />
+        <mark key="." line="6" column="1" />
+        <mark key="^" line="6" column="1" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/test/app.js" timestamp="1467160804268">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="19" />
+        <mark key="." line="27" column="19" />
+        <mark key="^" line="27" column="19" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/empty-test/public/javascripts/myApp.js" timestamp="1474309220472">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="42" />
+        <mark key="." line="5" column="4" />
+        <mark key="^" line="5" column="4" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/marionetteJS/app/app.js" timestamp="1474917699348">
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="10" column="22" />
+        <mark key="^" line="10" column="22" />
+        <mark key="." line="10" column="22" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/tpl/AlertImporterTripResultView.html" timestamp="1476732157828">
+        <mark key="'" line="15" column="63" />
+        <mark key="[" line="40" column="67" />
+        <mark key="]" line="40" column="67" />
+        <mark key="." line="40" column="67" />
+        <mark key="^" line="40" column="67" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/tpl/AlertImporterTripInputView.html" timestamp="1476370245648">
+        <mark key="'" line="262" column="38" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/marionetteJS/app/main.js" timestamp="1474919251678">
+        <mark key="'" line="8" column="26" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/empty-test/backbone.html" timestamp="1474470008774">
+        <mark key="[" line="43" column="36" />
+        <mark key="]" line="43" column="37" />
+        <mark key="^" line="43" column="37" />
+        <mark key="." line="43" column="37" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/Marionetee-Test/static/js/views.js" timestamp="1474988115296">
+        <mark key="[" line="8" column="41" />
+        <mark key="]" line="8" column="45" />
+        <mark key="^" line="8" column="45" />
+        <mark key="." line="8" column="45" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/mri/models/alert_importer_queries.js" timestamp="1476299414256">
+        <mark key="[" line="148" column="133" />
+        <mark key="]" line="148" column="133" />
+        <mark key="." line="148" column="133" />
+        <mark key="^" line="148" column="133" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/webpack-helloworld/index.html" timestamp="1476821058498">
+        <mark key="[" line="31" column="7" />
+        <mark key="]" line="31" column="52" />
+        <mark key="^" line="31" column="52" />
+        <mark key="." line="31" column="52" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" timestamp="1476730315900">
+        <mark key="a" line="427" column="22" />
+        <mark key="'" line="84" column="11" />
+        <mark key="[" line="430" column="27" />
+        <mark key="]" line="430" column="29" />
+        <mark key="^" line="430" column="29" />
+        <mark key="." line="430" column="29" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1476733502538">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/empty-test/main.js" timestamp="1474301031547">
+        <mark key="'" line="29" column="8" />
+        <mark key="[" line="39" column="18" />
+        <mark key="]" line="40" column="17" />
+        <mark key="." line="40" column="17" />
+        <mark key="^" line="40" column="17" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/webRTC-browser/views/index.ejs" timestamp="1467769966047">
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="16" column="32" />
+        <mark key="." line="16" column="32" />
+        <mark key="^" line="16" column="32" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/root.html" timestamp="1475009677756">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/ProjectRTC/public/javascripts/app.js" timestamp="1474380466245">
+        <mark key="'" line="4" column="23" />
+        <mark key="[" line="38" column="17" />
+        <mark key="]" line="38" column="18" />
+        <mark key="^" line="38" column="18" />
+        <mark key="." line="38" column="18" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/models/alert-importer-input-model.js" timestamp="1476301925212">
         <mark key="'" line="164" column="41" />
@@ -228,12 +282,6 @@
         <mark key="." line="15" column="5" />
         <mark key="^" line="15" column="5" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/mri/public/js/models/session-model.js" timestamp="1475175549128">
-        <mark key="'" line="3" column="19" />
-        <mark key="]" line="6" column="1" />
-        <mark key="." line="6" column="1" />
-        <mark key="^" line="6" column="1" />
-      </file>
       <file name="$USER_HOME$/WebstormProjects/mri/public/js/yutang/views/explorer-trip-input-view.js" timestamp="1475075603126">
         <mark key="'" line="130" column="33" />
       </file>
@@ -242,24 +290,6 @@
         <mark key="]" line="12" column="22" />
         <mark key="." line="12" column="22" />
         <mark key="^" line="12" column="22" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/test/app.js" timestamp="1467160804268">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="19" />
-        <mark key="." line="27" column="19" />
-        <mark key="^" line="27" column="19" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/empty-test/public/javascripts/myApp.js" timestamp="1474309220472">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="42" />
-        <mark key="." line="5" column="4" />
-        <mark key="^" line="5" column="4" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/marionetteJS/app/app.js" timestamp="1474917699348">
-        <mark key="[" line="9" column="16" />
-        <mark key="]" line="10" column="22" />
-        <mark key="^" line="10" column="22" />
-        <mark key="." line="10" column="22" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" timestamp="1476733659815">
         <mark key="'" line="24" column="35" />
@@ -280,16 +310,6 @@
         <mark key="^" line="13" column="37" />
         <mark key="." line="13" column="37" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/tpl/AlertImporterTripResultView.html" timestamp="1476732157828">
-        <mark key="'" line="15" column="63" />
-        <mark key="[" line="40" column="67" />
-        <mark key="]" line="40" column="67" />
-        <mark key="." line="40" column="67" />
-        <mark key="^" line="40" column="67" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/tpl/AlertImporterTripInputView.html" timestamp="1476370245648">
-        <mark key="'" line="262" column="38" />
-      </file>
       <file name="$USER_HOME$/WebstormProjects/marionetteJS/index.html" timestamp="1475172872891">
         <mark key="[" line="50" column="26" />
         <mark key="]" line="50" column="26" />
@@ -298,15 +318,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="203" column="10" filename="$USER_HOME$/WebstormProjects/mri/public/js/yutang/views/explorer-trip-input-view.js" />
-      <jump line="12" column="4" filename="$USER_HOME$/WebstormProjects/mri/public/js/yutang/views/explorer-trip-input-view.js" />
-      <jump line="49" column="31" filename="$USER_HOME$/WebstormProjects/mri/public/js/yutang/views/explorer-trip-input-view.js" />
-      <jump line="114" column="45" filename="$USER_HOME$/WebstormProjects/mri/public/js/yutang/views/explorer-trip-input-view.js" />
-      <jump line="180" column="26" filename="$USER_HOME$/WebstormProjects/mri/public/js/yutang/views/explorer-trip-input-view.js" />
-      <jump line="19" column="7" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/app.js" />
-      <jump line="7" column="39" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/views/layout.js" />
-      <jump line="251" column="10" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/layout.html" />
-      <jump line="28" column="8" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/layout.html" />
       <jump line="19" column="47" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/layout.html" />
       <jump line="32" column="12" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/layout.html" />
       <jump line="85" column="84" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/layout.html" />
@@ -398,22 +409,31 @@
       <jump line="157" column="12" filename="$USER_HOME$/WebstormProjects/webpack-helloworld/js/views.js" />
       <jump line="20" column="8" filename="$USER_HOME$/WebstormProjects/webpack-helloworld/js/auto-complete-behavior.js" />
       <jump line="12" column="28" filename="$USER_HOME$/WebstormProjects/webpack-helloworld/js/auto-complete-behavior.js" />
+      <jump line="24" column="38" filename="$USER_HOME$/WebstormProjects/mri/public/js/application.js" />
+      <jump line="25" column="4" filename="$USER_HOME$/WebstormProjects/mri/public/js/application.js" />
+      <jump line="26" column="4" filename="$USER_HOME$/WebstormProjects/mri/public/js/application.js" />
+      <jump line="135" column="22" filename="$USER_HOME$/WebstormProjects/mri/public/js/application-i.js" />
+      <jump line="120" column="18" filename="$USER_HOME$/WebstormProjects/mri/public/js/application-i.js" />
+      <jump line="196" column="79" filename="$USER_HOME$/WebstormProjects/mri/public/js/application-i.js" />
+      <jump line="30" column="17" filename="$USER_HOME$/WebstormProjects/mri/public/js/application-i.js" />
+      <jump line="116" column="2" filename="$USER_HOME$/WebstormProjects/mri/public/js/application-i.js" />
+      <jump line="117" column="18" filename="$USER_HOME$/WebstormProjects/mri/public/js/application-i.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>22222222222</text>
+        <text>explorer</text>
       </register>
       <register name="l" type="4">
         <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>22222222222</text>
+        <text>explorer</text>
       </register>
       <register name="/" type="4">
-        <text>autoComplete</text>
+        <text>explorer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8bGk+MjIyMjIyMjIyMjI8L2xpPgo=</text>
+        <text encoding="base64">ICBuZXcgQWxlcnRJbXBvcnRlclJvdXRlcih7Y29udHJvbGxlcjogbmV3IEFsZXJ0SW1wb3J0ZXJDb250cm9sbGVyKHthcHA6IEFwcH0pfSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJrZXk6ICIgKyBrZXkpOwogICAgICAgICAgICAgICAgY29uc29sZS5sb2coImZpZWxkOiAiICsgZmllbGQpOwo=</text>
@@ -447,11 +467,11 @@
       </register>
     </registers>
     <search>
-      <last-search>autoComplete</last-search>
+      <last-search>explorer</last-search>
       <last-offset />
-      <last-pattern>autoComplete</last-pattern>
+      <last-pattern>explorer</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -475,6 +495,8 @@
         <entry>ui.hostName</entry>
         <entry>behaviorClass</entry>
         <entry>autoComplete</entry>
+        <entry>alertIm</entry>
+        <entry>explorer</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
