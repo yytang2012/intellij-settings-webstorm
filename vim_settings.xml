@@ -411,19 +411,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>explorer</text>
+        <text>e</text>
       </register>
       <register name="l" type="4">
         <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>explorer</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>explorer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBuZXcgQWxlcnRJbXBvcnRlclJvdXRlcih7Y29udHJvbGxlcjogbmV3IEFsZXJ0SW1wb3J0ZXJDb250cm9sbGVyKHthcHA6IEFwcH0pfSk7Cg==</text>
+        <text encoding="base64">dmFyIGV4cGxvcmVyID0gcmVxdWlyZSgncm91dGVzL2V4cGxvcmVyLmpzJyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJrZXk6ICIgKyBrZXkpOwogICAgICAgICAgICAgICAgY29uc29sZS5sb2coImZpZWxkOiAiICsgZmllbGQpOwo=</text>
@@ -461,12 +461,10 @@
       <last-offset />
       <last-pattern>explorer</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>cid</entry>
-        <entry>router</entry>
         <entry>singleton</entry>
         <entry>threshold</entry>
         <entry>login</entry>
