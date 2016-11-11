@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/WebstormProjects/mri/public/js/views/tpl/HeaderView.html" timestamp="1478629921762">
@@ -191,7 +191,7 @@
         <mark key="^" line="430" column="29" />
         <mark key="." line="430" column="29" />
       </file>
-      <file name="/JavaScript Console" timestamp="1476733502538">
+      <file name="/JavaScript Console" timestamp="1478828965447">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/empty-test/main.js" timestamp="1474301031547">
@@ -299,6 +299,12 @@
         <mark key="]" line="13" column="37" />
         <mark key="^" line="13" column="37" />
         <mark key="." line="13" column="37" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/mri/models/alertimporter/alert_importer.js" timestamp="1478829110528">
+        <mark key="[" line="449" column="22" />
+        <mark key="]" line="449" column="22" />
+        <mark key="^" line="450" column="12" />
+        <mark key="." line="449" column="22" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/marionetteJS/index.html" timestamp="1475172872891">
         <mark key="[" line="50" column="26" />
@@ -411,13 +417,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>'';</text>
       </register>
       <register name="l" type="4">
         <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>'';</text>
       </register>
       <register name="/" type="4">
         <text>explorer</text>
