@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/WebstormProjects/mri/public/js/views/tpl/HeaderView.html" timestamp="1478629921762">
@@ -281,11 +281,11 @@
         <mark key="." line="12" column="22" />
         <mark key="^" line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" timestamp="1476733659815">
-        <mark key="'" line="24" column="35" />
-        <mark key="[" line="212" column="0" />
-        <mark key="]" line="212" column="20" />
-        <mark key="." line="212" column="20" />
+      <file name="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" timestamp="1478883186922">
+        <mark key="'" line="116" column="0" />
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="21" />
+        <mark key="." line="139" column="0" />
         <mark key="^" line="212" column="20" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/Marionetee-Test/app/models/rootModel.js" timestamp="1474992052265">
@@ -315,8 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="233" column="77" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/layout.html" />
-      <jump line="236" column="85" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/layout.html" />
       <jump line="248" column="140" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/layout.html" />
       <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/layout.html" />
       <jump line="2" column="76" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/layout.html" />
@@ -415,10 +413,12 @@
       <jump line="476" column="14" filename="$USER_HOME$/WebstormProjects/mri/models/alertimporter/alert_importer.js" />
       <jump line="56" column="37" filename="$USER_HOME$/WebstormProjects/mri/models/alertimporter/alert_importer.js" />
       <jump line="57" column="34" filename="$USER_HOME$/WebstormProjects/mri/models/alertimporter/alert_importer.js" />
+      <jump line="142" column="18" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" />
+      <jump line="116" column="0" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5kcmF3VGFibGUoKTsK</text>
       </register>
       <register name="l" type="4">
         <text>-</text>
@@ -427,46 +427,46 @@
         <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>explorer</text>
+        <text>fetch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">eyBkYXRhOiAndGltZScsICAgICAgdGl0bGU6ICdUaW1lJywgIHdpZHRoOiAnMTUlJywgc2VhcmNoYWJsZTogZmFsc2UgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvdy5jb3VudCArPSBkLmNvdW50Owo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5kcmF3VGFibGUoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFyIGNvbmZpZyA9IHJlcXVpcmUubWFpbi5leHBvcnRzLmNvbmZpZy5zZXJ2ZXIuZXhwbG9yZXI7CnZhciBsb2dnZXIgPSByZXF1aXJlLm1haW4uZXhwb3J0cy5sb2c0anMuZ2V0TG9nZ2VyKCdleHBsb3JlcicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvdy5jb3VudCArPSBkLmNvdW50Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByb3cuc3RhcnQK</text>
+        <text encoding="base64">dmFyIGNvbmZpZyA9IHJlcXVpcmUubWFpbi5leHBvcnRzLmNvbmZpZy5zZXJ2ZXIuZXhwbG9yZXI7CnZhciBsb2dnZXIgPSByZXF1aXJlLm1haW4uZXhwb3J0cy5sb2c0anMuZ2V0TG9nZ2VyKCdleHBsb3JlcicpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB2YXIgZmlyc3Q9IHJvd0RldGFpbE1hcFtrZXldOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByb3cuc3RhcnQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB2YXIgZmlyc3Q9IHJvd0RldGFpbE1hcFtrZXldOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Zm9yKGtleSBpbiBtTGlzdCkgewogIGNvbnNvbGUubG9nKCJrZXkgPSAiICsga2V5ICsgJzsgdmFsdWUnICsgbUxpc3Rba2V5XSk7Cn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJrZXk6ICIgKyBrZXkpOwogICAgICAgICAgICAgICAgY29uc29sZS5sb2coImZpZWxkOiAiICsgZmllbGQpOwo=</text>
+        <text encoding="base64">Zm9yKGtleSBpbiBtTGlzdCkgewogIGNvbnNvbGUubG9nKCJrZXkgPSAiICsga2V5ICsgJzsgdmFsdWUnICsgbUxpc3Rba2V5XSk7Cn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygia2V5d29yZDogIiArIHRoaXMudmlldy5rZXl3b3JkKTsKICAgICAgICBjb25zb2xlLmxvZygidmlldzogIiArIHRoaXMudmlldyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJrZXk6ICIgKyBrZXkpOwogICAgICAgICAgICAgICAgY29uc29sZS5sb2coImZpZWxkOiAiICsgZmllbGQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiQmVoYXZpb3Igb24gRmlsdGVyIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygia2V5d29yZDogIiArIHRoaXMudmlldy5rZXl3b3JkKTsKICAgICAgICBjb25zb2xlLmxvZygidmlldzogIiArIHRoaXMudmlldyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>explorer</last-search>
+      <last-search>fetch</last-search>
       <last-offset />
-      <last-pattern>explorer</last-pattern>
+      <last-pattern>fetch</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -492,6 +492,7 @@
         <entry>autoComplete</entry>
         <entry>alertIm</entry>
         <entry>explorer</entry>
+        <entry>fetch</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
