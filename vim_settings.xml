@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/WebstormProjects/mri/public/js/views/tpl/HeaderView.html" timestamp="1478629921762">
@@ -300,12 +300,12 @@
         <mark key="^" line="13" column="37" />
         <mark key="." line="13" column="37" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/mri/models/alertimporter/alert_importer.js" timestamp="1479146039382">
-        <mark key="'" line="91" column="11" />
-        <mark key="[" line="514" column="12" />
-        <mark key="]" line="515" column="33" />
-        <mark key="." line="515" column="33" />
-        <mark key="^" line="515" column="33" />
+      <file name="$USER_HOME$/WebstormProjects/mri/models/alertimporter/alert_importer.js" timestamp="1479150386350">
+        <mark key="'" line="529" column="16" />
+        <mark key="[" line="542" column="0" />
+        <mark key="]" line="542" column="0" />
+        <mark key="." line="542" column="0" />
+        <mark key="^" line="540" column="31" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/marionetteJS/index.html" timestamp="1475172872891">
         <mark key="[" line="50" column="26" />
@@ -315,7 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/layout.html" />
       <jump line="2" column="76" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/layout.html" />
       <jump line="9" column="173" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/layout.html" />
       <jump line="31" column="56" filename="$USER_HOME$/WebstormProjects/Marionetee-Test/app/templates/layout.html" />
@@ -415,16 +414,17 @@
       <jump line="142" column="18" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" />
       <jump line="116" column="0" filename="$USER_HOME$/WebstormProjects/mri/public/js/alert-importer/views/alert-importer-trip-result-view.js" />
       <jump line="91" column="11" filename="$USER_HOME$/WebstormProjects/mri/models/alertimporter/alert_importer.js" />
+      <jump line="529" column="16" filename="$USER_HOME$/WebstormProjects/mri/models/alertimporter/alert_importer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbmV3Um93cyA9IHJlc3VsdC5yb3dzOwo=</text>
       </register>
       <register name="l" type="4">
         <text>-</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>row</text>
       </register>
       <register name="/" type="4">
         <text>fetch</text>
@@ -433,31 +433,33 @@
         <text encoding="base64">eyBkYXRhOiAndGltZScsICAgICB0aXRsZTogJ1RpbWUnLCAgd2lkdGg6ICcxMCUnLCBzZWFyY2hhYmxlOiBmYWxzZSB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5kcmF3VGFibGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3Um93cyA9IHJlc3VsdC5yb3dzOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvdy5jb3VudCArPSBkLmNvdW50Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">dmFyIGNvbmZpZyA9IHJlcXVpcmUubWFpbi5leHBvcnRzLmNvbmZpZy5zZXJ2ZXIuZXhwbG9yZXI7CnZhciBsb2dnZXIgPSByZXF1aXJlLm1haW4uZXhwb3J0cy5sb2c0anMuZ2V0TG9nZ2VyKCdleHBsb3JlcicpOwo=</text>
+      <register name="3" type="4">
+        <text>{
+                
+              }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByb3cuc3RhcnQK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5kcmF3VGFibGUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB2YXIgZmlyc3Q9IHJvd0RldGFpbE1hcFtrZXldOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvdy5jb3VudCArPSBkLmNvdW50Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">dmFyIGNvbmZpZyA9IHJlcXVpcmUubWFpbi5leHBvcnRzLmNvbmZpZy5zZXJ2ZXIuZXhwbG9yZXI7CnZhciBsb2dnZXIgPSByZXF1aXJlLm1haW4uZXhwb3J0cy5sb2c0anMuZ2V0TG9nZ2VyKCdleHBsb3JlcicpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Zm9yKGtleSBpbiBtTGlzdCkgewogIGNvbnNvbGUubG9nKCJrZXkgPSAiICsga2V5ICsgJzsgdmFsdWUnICsgbUxpc3Rba2V5XSk7Cn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByb3cuc3RhcnQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJrZXk6ICIgKyBrZXkpOwogICAgICAgICAgICAgICAgY29uc29sZS5sb2coImZpZWxkOiAiICsgZmllbGQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB2YXIgZmlyc3Q9IHJvd0RldGFpbE1hcFtrZXldOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygia2V5d29yZDogIiArIHRoaXMudmlldy5rZXl3b3JkKTsKICAgICAgICBjb25zb2xlLmxvZygidmlldzogIiArIHRoaXMudmlldyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
