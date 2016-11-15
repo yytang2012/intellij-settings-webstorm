@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/WebstormProjects/mri/public/js/views/tpl/HeaderView.html" timestamp="1478629921762">
@@ -191,7 +191,7 @@
         <mark key="^" line="430" column="29" />
         <mark key="." line="430" column="29" />
       </file>
-      <file name="/JavaScript Console" timestamp="1478880600202">
+      <file name="/JavaScript Console" timestamp="1479229910832">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/empty-test/main.js" timestamp="1474301031547">
@@ -241,7 +241,7 @@
         <mark key="." line="24" column="14" />
         <mark key="^" line="24" column="14" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/comics-novels-nodeJS/app.js" timestamp="1478881781340">
+      <file name="$USER_HOME$/WebstormProjects/comics-novels-nodeJS/app.js" timestamp="1479229908608">
         <mark key="[" line="131" column="15" />
         <mark key="]" line="131" column="15" />
         <mark key="^" line="131" column="15" />
