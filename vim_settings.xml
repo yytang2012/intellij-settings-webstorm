@@ -186,6 +186,11 @@
         <mark key="^" line="31" column="52" />
         <mark key="." line="31" column="52" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/mri/models/alertimporter/alert_importer_queries.js" timestamp="1479833970145">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/mri/models/alert_importer.js" timestamp="1476730315900">
         <mark key="a" line="427" column="22" />
         <mark key="'" line="84" column="11" />
@@ -303,12 +308,12 @@
         <mark key="^" line="13" column="37" />
         <mark key="." line="13" column="37" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/mri/models/alertimporter/alert_importer.js" timestamp="1479831439627">
-        <mark key="'" line="204" column="37" />
-        <mark key="[" line="481" column="18" />
-        <mark key="]" line="481" column="32" />
-        <mark key="." line="481" column="32" />
-        <mark key="^" line="481" column="32" />
+      <file name="$USER_HOME$/WebstormProjects/mri/models/alertimporter/alert_importer.js" timestamp="1479834314104">
+        <mark key="'" line="611" column="12" />
+        <mark key="[" line="520" column="0" />
+        <mark key="]" line="520" column="44" />
+        <mark key="." line="520" column="0" />
+        <mark key="^" line="559" column="43" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/marionetteJS/index.html" timestamp="1475172872891">
         <mark key="[" line="50" column="26" />
@@ -318,8 +323,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/mri/public/js/yutang/views/explorer-trip-input-view.js" />
-      <jump line="130" column="33" filename="$USER_HOME$/WebstormProjects/mri/public/js/yutang/views/explorer-trip-input-view.js" />
       <jump line="7" column="30" filename="$USER_HOME$/WebstormProjects/mri/public/js/models/session-model.js" />
       <jump line="120" column="24" filename="$USER_HOME$/WebstormProjects/mri/public/js/models/session-model.js" />
       <jump line="109" column="12" filename="$USER_HOME$/WebstormProjects/mri/public/js/models/session-model.js" />
@@ -418,51 +421,53 @@
       <jump line="312" column="37" filename="$USER_HOME$/WebstormProjects/mri/models/alertimporter/alert_importer.js" />
       <jump line="607" column="7" filename="$USER_HOME$/WebstormProjects/mri/models/alertimporter/alert_importer.js" />
       <jump line="204" column="37" filename="$USER_HOME$/WebstormProjects/mri/models/alertimporter/alert_importer.js" />
+      <jump line="521" column="17" filename="$USER_HOME$/WebstormProjects/mri/models/alertimporter/alert_importer.js" />
+      <jump line="611" column="12" filename="$USER_HOME$/WebstormProjects/mri/models/alertimporter/alert_importer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>+</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICByb3cuY291bnQgPSBkZXRhaWxSb3dzLmxlbmd0aDsK</text>
       </register>
       <register name="l" type="4">
         <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text>max</text>
       </register>
-      <register name="0" type="4">
-        <text>'ev.starttime'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICByb3cuY291bnQgPSBkZXRhaWxSb3dzLmxlbmd0aDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3Um93cy5zb3J0KGZ1bmN0aW9uKGEsIGIpIHsKICAgICAgICAgICAgICByZXR1cm4gYi5jb3VudCAtIGEuY291bnQ7CiAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICcgRVhFUEFUSCwgRklMRVBBVEgsIEFHRU5ULCBQX1VTRVInKwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbmV3Um93cy5zb3J0KGZ1bmN0aW9uKGEsIGIpIHsKICAgICAgICAgICAgICByZXR1cm4gYi5jb3VudCAtIGEuY291bnQ7CiAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3Um93cyA9IHJlc3VsdC5yb3dzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3Um93cy5zb3J0KGZ1bmN0aW9uKGEsIGIpIHsKICAgICAgICAgICAgICByZXR1cm4gYi5jb3VudCAtIGEuY291bnQ7CiAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbmV3Um93cyA9IHJlc3VsdC5yb3dzOwo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>{
                 
               }</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgdGhpcy5kcmF3VGFibGUoKTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJvdy5jb3VudCArPSBkLmNvdW50Owo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">dmFyIGNvbmZpZyA9IHJlcXVpcmUubWFpbi5leHBvcnRzLmNvbmZpZy5zZXJ2ZXIuZXhwbG9yZXI7CnZhciBsb2dnZXIgPSByZXF1aXJlLm1haW4uZXhwb3J0cy5sb2c0anMuZ2V0TG9nZ2VyKCdleHBsb3JlcicpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByb3cuc3RhcnQK</text>
+        <text encoding="base64">dmFyIGNvbmZpZyA9IHJlcXVpcmUubWFpbi5leHBvcnRzLmNvbmZpZy5zZXJ2ZXIuZXhwbG9yZXI7CnZhciBsb2dnZXIgPSByZXF1aXJlLm1haW4uZXhwb3J0cy5sb2c0anMuZ2V0TG9nZ2VyKCdleHBsb3JlcicpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -473,7 +478,7 @@
       <last-offset />
       <last-pattern>max</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -499,10 +504,10 @@
         <entry>max</entry>
       </history-search>
       <history-cmd>
-        <entry>W</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>wq</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
