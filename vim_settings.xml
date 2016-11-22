@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/WebstormProjects/mri/public/js/views/tpl/HeaderView.html" timestamp="1478629921762">
@@ -14,6 +14,9 @@
         <mark key="]" line="21" column="0" />
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="/fragment.js" timestamp="1479831161835">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/ProjectRTC/package.json" timestamp="1467230230182">
         <mark key="[" line="15" column="12" />
@@ -191,7 +194,7 @@
         <mark key="^" line="430" column="29" />
         <mark key="." line="430" column="29" />
       </file>
-      <file name="/JavaScript Console" timestamp="1479229910832">
+      <file name="/JavaScript Console" timestamp="1479831470651">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/empty-test/main.js" timestamp="1474301031547">
@@ -300,12 +303,12 @@
         <mark key="^" line="13" column="37" />
         <mark key="." line="13" column="37" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/mri/models/alertimporter/alert_importer.js" timestamp="1479225078483">
+      <file name="$USER_HOME$/WebstormProjects/mri/models/alertimporter/alert_importer.js" timestamp="1479831439627">
         <mark key="'" line="204" column="37" />
-        <mark key="[" line="607" column="47" />
-        <mark key="]" line="608" column="7" />
-        <mark key="." line="608" column="7" />
-        <mark key="^" line="608" column="7" />
+        <mark key="[" line="481" column="18" />
+        <mark key="]" line="481" column="32" />
+        <mark key="." line="481" column="32" />
+        <mark key="^" line="481" column="32" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/marionetteJS/index.html" timestamp="1475172872891">
         <mark key="[" line="50" column="26" />
@@ -417,20 +420,20 @@
       <jump line="204" column="37" filename="$USER_HOME$/WebstormProjects/mri/models/alertimporter/alert_importer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3Um93cy5zb3J0KGZ1bmN0aW9uKGEsIGIpIHsKICAgICAgICAgICAgICByZXR1cm4gYi5jb3VudCAtIGEuY291bnQ7CiAgICAgICAgICAgIH0pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>+</text>
       </register>
       <register name="l" type="4">
         <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>row</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text>max</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">eyBkYXRhOiAndGltZScsICAgICB0aXRsZTogJ1RpbWUnLCAgd2lkdGg6ICcxMCUnLCBzZWFyY2hhYmxlOiBmYWxzZSB9LAo=</text>
+      <register name="0" type="4">
+        <text>'ev.starttime'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbmV3Um93cy5zb3J0KGZ1bmN0aW9uKGEsIGIpIHsKICAgICAgICAgICAgICByZXR1cm4gYi5jb3VudCAtIGEuY291bnQ7CiAgICAgICAgICAgIH0pOwo=</text>
@@ -470,11 +473,10 @@
       <last-offset />
       <last-pattern>max</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>singleton</entry>
         <entry>threshold</entry>
         <entry>login</entry>
         <entry>undefine</entry>
