@@ -306,12 +306,12 @@
         <mark key="^" line="13" column="37" />
         <mark key="." line="13" column="37" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/mri/models/alertimporter/alert_importer.js" timestamp="1479834314104">
-        <mark key="'" line="611" column="12" />
-        <mark key="[" line="520" column="0" />
-        <mark key="]" line="520" column="44" />
-        <mark key="." line="520" column="0" />
-        <mark key="^" line="559" column="43" />
+      <file name="$USER_HOME$/WebstormProjects/mri/models/alertimporter/alert_importer.js" timestamp="1480696873905">
+        <mark key="'" line="608" column="41" />
+        <mark key="[" line="581" column="0" />
+        <mark key="]" line="581" column="0" />
+        <mark key="." line="581" column="0" />
+        <mark key="^" line="618" column="31" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/marionetteJS/index.html" timestamp="1475172872891">
         <mark key="[" line="50" column="26" />
@@ -321,7 +321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="30" filename="$USER_HOME$/WebstormProjects/mri/public/js/models/session-model.js" />
       <jump line="120" column="24" filename="$USER_HOME$/WebstormProjects/mri/public/js/models/session-model.js" />
       <jump line="109" column="12" filename="$USER_HOME$/WebstormProjects/mri/public/js/models/session-model.js" />
       <jump line="23" column="9" filename="$USER_HOME$/WebstormProjects/mri/public/js/models/session-model.js" />
@@ -421,62 +420,63 @@
       <jump line="204" column="37" filename="$USER_HOME$/WebstormProjects/mri/models/alertimporter/alert_importer.js" />
       <jump line="521" column="17" filename="$USER_HOME$/WebstormProjects/mri/models/alertimporter/alert_importer.js" />
       <jump line="611" column="12" filename="$USER_HOME$/WebstormProjects/mri/models/alertimporter/alert_importer.js" />
+      <jump line="608" column="41" filename="$USER_HOME$/WebstormProjects/mri/models/alertimporter/alert_importer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>source</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICByb3cuY291bnQgPSBkZXRhaWxSb3dzLmxlbmd0aDsK</text>
       </register>
       <register name="l" type="4">
         <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>source</text>
+        <text encoding="base64">ZGV0YWlsUm93cyA=</text>
       </register>
       <register name="/" type="4">
-        <text>max</text>
+        <text>slice</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm1vZGVsLnNldCgnc291cmNlLWlwLXBvcnQnLCByb3dEYXRhLnNvdXJjZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBkZXRhaWxSb3dzLnNvcnQoZnVuY3Rpb24oYSwgYikgewogICAgICAgICAgICAgICAgcmV0dXJuIGEudGltZSAtIGIudGltZTsKICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICByb3cuc3RhcnR0aW1lID0gZGV0YWlsUm93c1swXS50aW1lOwogICAgICAgICAgICAgIHJvdy5lbmR0aW1lID0gZGV0YWlsUm93c1tkZXRhaWxSb3dzLmxlbmd0aC0xXTsKICAgICAgICAgICAgICByb3cuY291bnQgPSBkZXRhaWxSb3dzLmxlbmd0aDsKCiAgICAgICAgICAgICAgcm93RGV0YWlsTWFwW2tleV0gPSBkZXRhaWxSb3dzLnNsaWNlKDAsIDEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICcgRVhFUEFUSCwgRklMRVBBVEgsIEFHRU5ULCBQX1VTRVInKwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByb3cuY291bnQgPSBkZXRhaWxSb3dzLmxlbmd0aDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3Um93cy5zb3J0KGZ1bmN0aW9uKGEsIGIpIHsKICAgICAgICAgICAgICByZXR1cm4gYi5jb3VudCAtIGEuY291bnQ7CiAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICcgRVhFUEFUSCwgRklMRVBBVEgsIEFHRU5ULCBQX1VTRVInKwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbmV3Um93cy5zb3J0KGZ1bmN0aW9uKGEsIGIpIHsKICAgICAgICAgICAgICByZXR1cm4gYi5jb3VudCAtIGEuY291bnQ7CiAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3Um93cyA9IHJlc3VsdC5yb3dzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3Um93cy5zb3J0KGZ1bmN0aW9uKGEsIGIpIHsKICAgICAgICAgICAgICByZXR1cm4gYi5jb3VudCAtIGEuY291bnQ7CiAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbmV3Um93cyA9IHJlc3VsdC5yb3dzOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>{
                 
               }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgdGhpcy5kcmF3VGFibGUoKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvdy5jb3VudCArPSBkLmNvdW50Owo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFyIGNvbmZpZyA9IHJlcXVpcmUubWFpbi5leHBvcnRzLmNvbmZpZy5zZXJ2ZXIuZXhwbG9yZXI7CnZhciBsb2dnZXIgPSByZXF1aXJlLm1haW4uZXhwb3J0cy5sb2c0anMuZ2V0TG9nZ2VyKCdleHBsb3JlcicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvdy5jb3VudCArPSBkLmNvdW50Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>max</last-search>
+      <last-search>slice</last-search>
       <last-offset />
-      <last-pattern>max</last-pattern>
+      <last-pattern>slice</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -500,6 +500,7 @@
         <entry>explorer</entry>
         <entry>fetch</entry>
         <entry>max</entry>
+        <entry>slice</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
